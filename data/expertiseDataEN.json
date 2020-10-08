@@ -1,0 +1,112 @@
+[{
+    "id": "energy",
+    "name": "Energy Law",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",
+    "expertId1": "balazs-lohn",
+    "expertId2": "marta-mraz"
+},
+{
+    "id": "commerce",
+    "name": "Commercial Law",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+},
+{
+    "id": "dataprotection",
+    "name": "Data Protection",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",        
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+},
+{
+    "id": "employment",
+    "name": "Employment Law",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",      
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+},
+{
+    "id": "financing",
+    "name": "Financing",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",        
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+},
+{
+    "id": "litigation",
+    "name": "Litigation",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",       
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+},
+{
+    "id": "immigration",
+    "name": "Immigration Law",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",        
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+},
+{
+    "id": "legalentities",
+    "name": "Legal Entities",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "", 
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+},
+{
+    "id": "realestate",
+    "name": "Real Estate",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+},
+{
+    "id": "contracts",
+    "name": "Contract Law",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+},
+{
+    "id": "tax",
+    "name": "Tax Law",
+    "descriptionP1": "",
+    "descriptionP2": "",
+    "descriptionP3": "",
+    "descriptionP4": "",        
+    "expertId1": "balazs-lohn",
+    "expertId2": "balazs-kis"
+}
+
+]

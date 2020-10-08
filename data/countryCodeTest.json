@@ -1,0 +1,17 @@
+{
+    "businessName" : "",
+    "businessWebsite" : "",
+    "city" : "Budapest",
+    "continent" : "Europe",
+    "country" : "Hungary",
+    "countryCode" : "HU",
+    "ipName" : "05268275.dsl.pool.telekom.hu",
+    "ipType" : "Residential",
+    "isp" : "Magyar Telekom plc.",
+    "lat" : "47.49835",
+    "lon" : "19.04045",
+    "org" : "Magyar Telekom plc.",
+    "query" : "5.38.130.117",
+    "region" : "Budapest",
+    "status" : "success"
+ }

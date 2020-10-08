@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#121212" />
+    <link rel="stylesheet" href="lohn.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Abhaya+Libre&family=Source+Sans+Pro&family=Source+Serif+Pro&display=swap"
+        rel="stylesheet">
+    <title>Lohn Ügyvédi Iroda</title>
+</head>
+
+<body>
+
+    <div id="navbar" class="navbar elevation-high">
+    </div>
+
+    <section id="main-content-section" class="mainContentSection">
+        <div id="map" class="map"></div>
+    </section>
+
+    <footer id="footer" class="serif grey">
+    </footer>
+
+    <!--TEMPLATES-->
+
+    <!-- navbar template-->
+    <script id="navbarTemplate" type="text/x-handlebars-template">
+        {{#with generalData}}
+        <div class="contentWrapper">
+            <div class="navbar-logowrapper">
+                <a onclick="loadHomepageFromStoredObject()"><img class="navbar-logo" src="logo/lohn_logo_vector_v2_fonttal_ce.png" alt="Navbar Logo"></a>
+                <a class="serif sm grey bold" onclick="loadHomepageFromStoredObject()">{{firmName}} {{firmType}}</a>
+                <div class="link-border-vertical"></div>
+            </div>
+            <div class="navbar-linkwrapper">
+                <a class="serif sm grey bold"  onclick="loadTeamPageFromStoredObject()" > {{teamButton}}</a>
+                <a class="serif sm grey bold" onclick="scrollToExpertise()">{{expertiseButton}}</a>
+                <a class="serif sm yellow bold" id="navpagelink3" onclick="scrollToContacts()">{{contactButton}}</a>
+            </div>
+            <div class="dropdown-wrapper">
+                <div class="language-dropdown column">
+                    <div class="languageIconWrapper" onclick="openLanguages(this)">
+                        <div>
+                            <img id="language-icon" class="languageIcon" src="creative-content/globe.png" alt="Language Button Icon">
+
+                        </div>
+                        <p id="languageCode" class="serif white">{{mainLanguageCode}}</p>
+                    </div>
+                    <div class="hideable-link-wrapper column">
+                        <a id="HU-menuitem" class="hideable-link serif xs black" onclick="loadSecondaryLanguage('{{languageCode1}}')">
+                            <p>{{language1}}</p>
+                        </a>
+                        <div class="link-border-horizontal"></div>
+                        <a id="EN-menuitem" class="hideable-link serif xs black" onclick="loadSecondaryLanguage('{{languageCode2}}')">
+                            <p >{{language2}}</p>
+                        </a>
+                        <div class="link-border-horizontal"></div>
+                        <a id="DE-menuitem" class="hideable-link serif xs black" onclick="loadSecondaryLanguage('{{languageCode3}}')">
+                            <p>{{language3}}</p>
+                        </a>
+                        <div class="link-border-horizontal"></div>
+                        <a id="RU-menuitem" class="hideable-link serif xs black" onclick="loadSecondaryLanguage('{{languageCode4}}')">
+                            <p>{{language4}}</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="hamburger-dropdown column">
+                    <div class="hamburger column" onclick="openHamburger(this)">
+                        <div class="bar1"></div>
+                        <div class="bar2"></div>
+                        <div class="bar3"></div>
+                        <div class="bar4"></div>
+                    </div>
+                    <div class="hideable-link-wrapper column">
+                        <a class="hideable-link serif sm black" onclick="loadTeamPageFromStoredObject(), closeHamburger()">
+                            <p>{{teamButton}}</p>
+                        </a>
+                        <div class="link-border-horizontal"></div>
+                        <a class="hideable-link serif sm black" onclick="scrollToExpertise(), closeHamburger()">
+                            <p>{{expertiseButton}}</p>
+                        </a>
+                        <div class="link-border-horizontal"></div>
+                        <a class="hideable-link serif sm black" onclick="scrollToContacts(), closeHamburger()">
+                            <p>{{footerContactsHeader}}</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+      {{/with}}
+    </script>
+
+    <!-- footer template-->
+    <script id="footerTemplate" type="text/x-handlebars-template">
+        <div class="arrowSection">
+            <img src="creative-content/arrow-up.png" alt="Arrow Up" onclick="scrollToTop()">
+        </div>
+     
+        {{#with generalData}}
+        <div class="contentWrapper column">
+            <div class="mainFooterText column">
+                <div class="footerTopBox column">
+                    <div class="footerboxtext column">
+                        <span class="yellow">
+                            {{footerContactsHeader}}
+                         </span>
+                        {{openingTimes}}
+                         <span>
+                             <a class="serif grey" href="mailto:{{email}}?subject={{emailDefaultSubject}}">
+                                 {{email}}
+                             </a>
+                         </span>{{landline}}
+                     </div>
+                 <div class="footerboxtext column">
+                     <span class="yellow">{{footerAddressHeader2}}</span>
+                     {{address}}
+                 </div>
+                 <div class="footerboxtext column">
+                     <span class="yellow">
+                         {{footerCareerHeader}}
+                     </span>
+                     <span>
+                         <a class="serif grey" href="mailto:{{email}}?subject=megkeresés">
+                             {{email}}
+                         </a>
+                     </span>
+                     {{landline}}
+                 </div>
+             </div>
+             <div class="footerBottomBox column">
+                 <p>
+                    {{barAssociationText}}
+                 </p>
+                 <a class="serif white" href="legal.html">
+                    {{legalButton}}
+                 </a>
+             </div>
+         </div>
+         <div class="footerCopyrightBox column serif sm">
+             <img class="footerLogo" src="logo/lohn vector 20160404 - noscale.png" alt="Footer Logo">
+             <p>
+                 <img id="copyrighticon" src="creative-content/iconfinder_ic_copyright_48px_3669366.png" alt="Copyright Icon">
+                 {{copyrightText}}
+             </p>
+             <a class="yellow" onclick="loadLegalNoticePageFromStoredObject()">{{legalButtonText}}</a>
+             <p>Design&development:
+                 <a class="githubLink" href="https://github.com/gregszalay">github.com/gregszalay</a></p>
+             </div>
+         </div>
+         {{/with}}
+     </script>
+
+    <!--homepage content template-->
+    <script id="homepageContentTemplate" type="text/x-handlebars-template">
+        <div id="intro-section" class="introSection column">
+            <div class="backgroundImageContainer">
+                <div>
+                    <picture>
+                        <source type="image/webp" srcset="creative-content/bazilika-4837w.webp">
+                        <source type="image/gif" media="(max-width: 599px)"srcset="creative-content/bazilika-1000w.gif">
+                        <source type="image/gif" media="(min-width: 600px)" srcset="creative-content/bazilika-3100w.gif">
+                        <source type="image/gif" media="(min-width: 3000px)" srcset="creative-content/bazilika-4837w.gif">
+                        <img class="background-image"  alt="">   
+                    </picture>
+                </div>
+            </div>
+            {{#with generalData}}
+            <div class="introWrapper contentWrapper">
+                <div class="introLeft black sans-serif elevation-mid">
+                    <p>{{firmName}}<br><span>{{firmType}}</span></p>
+                    <img class="emeaFirmImage" src="logo/emea_leading_firm.jpg" alt="">
+                </div>
+                <div class="introRight white serif elevation-mid">
+                    <p class="introtext">{{introductionText1}}<br><br>{{introductionText2}}</p>
+                </div>
+            </div>
+            {{/with}}
+        </div>
+        <div id="szakteruletek" class="contentWrapper tilecontainer">
+            <div class="tileHeader tile sans-serif white">{{generalData.expertiseButton}}
+            </div>
+            {{#each expertiseData}}
+            <a class="tile elevation-low sans-serif white" onclick="loadFieldPageFromStoredObject('{{id}}')" onmouseover="mouseOverTile(this)" onmouseout="mouseOut(this)">
+               <img id="{{id}}" class="tileimage" src="expertise-photos/{{id}}-bw.jpg" alt="{{name}}" longdesc="{{photoURL}}">
+               <p>{{name}}</p>
+               </a>
+            {{/each}}
+        </div>
+        <div class="whiteContentSection column">
+            {{#with generalData}}
+            <div class="whiteTextWrapper contentWrapper column serif black">
+                <h1 class="lg">{{middleTextHeader}}</h1>
+                <p>{{middleTextP1}}</p>
+                <p>{{middleTextP2}}</p>
+                <p>{{middleTextP3}}</p>
+                <img class="worldlinkLogo" src="logo/WLL_O_bw_small.png" alt="World Link For Law Logo">
+                <p>{{middleTextP4}} <a href="www.worldlink-law.com">worldlink-law.com</a></p>
+            </div>
+            {{/with}}
+        </div>
+        <div id="contact-wrapper" class="contactWrapper contentWrapper serif white column">
+            {{#with generalData}}
+            <h1 class="serif white lg">{{contactHeader}}</h1>
+                <ul>
+                    <li class="contactListItem">
+                        <a class="serif white" href="mailto:{{email}}?subject={{emailDefaultSubject}}">{{email}}</a>
+                        <img src="creative-content/iconfinder_at_1167979.png" alt="Email Icon" 
+                        longdesc="color change https://www.iconfinder.com/icons/461377/download/png/512 https://creativecommons.org/licenses/by/3.0/">
+                    </li>
+                    <li class="contactListItem">
+                        <p>{{landline}}</p>
+                        <img src="creative-content/iconfinder_mobile-phone-smart-screen_2205195.png" alt="Phone Icon"
+                        longdesc="https://www.iconfinder.com/icons/2205195/download/png/512">
+                    </li>
+                    <li class="contactListItem">
+                        <a class="yellow">{{address}}</a>
+                        <img src="creative-content/addressIcon.png" alt="Address Icon" 
+                        longdesc="color change https://www.iconfinder.com/icons/115718/download/png/512 https://creativecommons.org/licenses/by/3.0/">
+                    </li>
+                </ul>
+                {{/with}}
+        </div>
+        <div id="map" class="map">
+        </div> 
+    </script>
+
+    <!--Single Expertise Page Template-->
+    <script id="singleExpertiseTemplate" type="text/x-handlebars-template">
+        <div id="expertise-main-section" class="subPageMainSection contentWrapper">
+            {{#each expertiseData}}
+            <div id="{{id}}" class="text column serif white hidden">
+                <div class="column">
+                    <p>{{name}}</p>
+                    <p>{{descriptionP1}}</p>
+                    <p>{{descriptionP2}}</p>
+                    <p>{{descriptionP3}}</p>
+                    <p>{{descriptionP4}}</p>
+
+                </div>
+            </div>
+            {{/each}}
+            <div class="teamCardsContainer contentWrapper tilecontainer">
+                {{#each teamData}}
+                <div id="team-card-wrapper-{{id}}" class="teamCardWrapper column hidden">
+                    <img class="card-img" src="profile-photos/{{id}}.jpg" alt="">
+                    <div class="team-card sans-serif white elevation-mid">
+                        <img id="{{id}}-thumbnail" class="card-img-thumbnail" src="profile-photos/{{id}}.jpg" alt="">
+                        <div>
+                            <div class="column">
+                                <p class="name sans-serif white sm">{{name}}<br><span class="sans-serif sm white">{{title}}</span>
+                                </p>
+                                <a class="sans-serif sm yellow" onclick="loadProfilePageFromStoredObject('{{id}}')">{{profileButtonText}} >></a>
+                            </div>
+                            <img class="profile-contact-icon" onclick="showProfileDropdown(this, '{{id}}-dropdown')" src="creative-content/hamburger-round.png" alt="Profile Contact Icon"
+                            longdesc="https://www.iconfinder.com/icons/657905/download/png/512">
+                        </div>
+                    </div>
+                    <div id="{{id}}-dropdown" class="team-card-dropdown">
+                        <ul>
+                            <li class="contactListItem">
+                                <a class="serif white" href="mailto:{{email}}?subject=megkeresés">{{email}}</a>
+                           </li>
+                            <div class="link-border-horizontal"></div>
+                            <li class="contactListItem">
+                                <p class="serif white">{{mobile}}</p>
+                            </li>
+                             <div class="link-border-horizontal"></div>
+                            <li class="contactListItem">
+                                <p class="serif white">{{languages}}</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+        </div>
+    </script>
+
+    <!--Team Page Template-->
+    <script id="myTeamTemplate" type="text/x-handlebars-template">
+        <div class="whiteTeamPageHeader column">
+            <div class="whiteTextWrapper contentWrapper column serif-black">
+                <h1 class="sans-serif black xl">{{generalData.teamButton}}</h1>
+            </div>
+        </div>
+        <div class="teamCardsContainer contentWrapper tilecontainer">
+            {{#each teamData}}
+            <div id="team-card-wrapper" class="teamCardWrapper column">
+                <img class="card-img" src="profile-photos/{{id}}.jpg" alt="{{name}}">
+                <div class="team-card serif white elevation-mid">
+                    <img id="{{id}}-thumbnail" class="card-img-thumbnail" src="profile-photos/{{id}}.jpg" alt="">
+                    <div>
+                        <div class="column">
+                            <p class="name serif white sm">{{name}}<br><span class="serif sm white">{{title}}</span>
+                            </p>
+                            
+                            <a class="serif sm yellow" onclick="loadProfilePageFromStoredObject('{{id}}')">{{profileButtonText}} >></a>
+                        </div>
+                        <img class="profile-contact-icon" onclick="showProfileDropdown(this, '{{id}}-dropdown')" src="creative-content/hamburger-round.png" alt="Profile Contact Icon">
+                    </div>
+                </div>
+                <div id="{{id}}-dropdown" class="team-card-dropdown">
+                    <ul>
+                        <li class="contactListItem">
+                            <a class="serif white" href="mailto:{{email}}?subject=megkeresés">{{email}}</a>
+                            <img src="creative-content/iconfinder_at_1167979.png" alt="Email Icon">
+                        </li>
+                        <div class="link-border-horizontal"></div>
+                        <li class="contactListItem">
+                            <p class="serif white">{{mobile}}</p>
+                            <img src="creative-content/iconfinder_mobile-phone-smart-screen_2205195.png" alt="Phone Icon">
+                        </li>
+                         <div class="link-border-horizontal"></div>
+                        <li class="contactListItem">
+                            <p class="serif white">{{languages}}</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            {{/each}}
+        </div>
+    </script>
+
+    <!--Single Profile Template-->
+    <script id="profileTemplate" type="text/x-handlebars-template">
+        <div class="subPageMainSection contentWrapper">
+                <div id="{{id}}" class="profileContainer">
+                    <div class="profileImageContainer column serif white">
+                        <img class="portrait-img" src="profile-photos/{{id}}.jpg" alt="{{name}}">
+                        <img class="emeaLawyerImage" src="logo/{{id}}-emea_recommended_lawyer.jpg" alt="" onerror="hide(this)">
+                    </div>
+                    <div class="text column serif white">
+                        <div class="column">
+                            <p> <span class="lg">{{name}}</span> <br> <span>{{title}}</span>  </p>
+                           <p>{{introduction}}</p>
+
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </script>
+
+    <!--Legal Notice Template-->
+    <script id="legalNoticeTemplate" type="text/x-handlebars-template">
+        <div class="contentWrapper">
+            <div class="column">
+                <div class="text column serif white">
+                    <h1 class="yellow lg">{{legalP1}}</h1>
+                    <p>{{legalP2}}</p>
+                    <h1 class="yellow lg">{{legalP3}}</h1>
+                    <p>{{legalP4}}</p>
+                </div>
+            </div>
+        </div>
+    </script>
+
+    <script src="lohn.js"></script>
+    <script src="handlebars-v4.7.6.js"></script>
+    <script src="https://unpkg.com/webp-hero@0.0.0-dev.26/dist-cjs/polyfills.js"></script>
+    <script src="https://unpkg.com/webp-hero@0.0.0-dev.26/dist-cjs/webp-hero.bundle.js"></script>
+
+</body>
+
+</html>

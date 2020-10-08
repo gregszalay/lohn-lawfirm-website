@@ -1,0 +1,113 @@
+[{
+        "id": "energy",
+        "name": "Energiajog",
+        "descriptionP1": "Hazánkban, a hazai, közösségi és nemzetközi szintű klímavédelmi célokra való törekvés következtében az atomenergia, a megújuló energiaforrásokból nyert energia fokozódó térnyerése figyelhető meg. Magyarország energiafogyasztásának 2020-ban megközelítőleg 14 % -át teszi ki megújuló energiaforrásokból nyert energia, mely a szakpolitikai célok szerint 2030 - ra 20 % -ra nő, és melynek a tervek szerint közel 70 % -át naperőművek fogják biztosítani.",
+        "descriptionP2": "Ezekhez a célokhoz azonban – alacsonyabb költségű energiaforrások által jelentett piaci hátrány miatt – kétségtelenül részletes jogi szabályozás mellett nyújtott állami támogatásra van szükség. Megújuló energia projekteknél a gyorsan változó szabályozási környezettel való összhang jelentős pénzügyi kockázatokat küszöbölhet ki.",
+        "descriptionP3": "Több sikeres megújulóenergia-beruházásban közreműködve ügyfeleink számára tapasztalt segítséget tudunk nyújtani megújulóenergia projektek, különösen napelem - parkok tervezésével és kivitelezésével kapcsolatos jogi feladatokban.",
+        "descriptionP4": "",
+        "expertId1": "balazs-lohn",
+        "expertId2": "marta-mraz"
+    },
+    {
+        "id": "commerce",
+        "name": "Kereskedelmi jog",
+        "descriptionP1": "",
+        "descriptionP2": "",
+        "descriptionP3": "",
+        "descriptionP4": "",
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis"
+    },
+    {
+        "id": "dataprotection",
+        "name": "Adatvédelmi Jog",
+        "descriptionP1": "",
+        "descriptionP2": "",
+        "descriptionP3": "",
+        "descriptionP4": "",        
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis",
+        "photoURL" : ""
+    },
+    {
+        "id": "employment",
+        "name": "Munkajog",
+        "descriptionP1": "Az üzleti sikerességben középponti szerepet játszik a humánerőforrások hatékony szervezése, melynek alapja az adott vállalat hatályos munkajogi rendszere. Irodánk kész megoldásokkal szolgál munkajogi rendszerek kialakítására, átalakítására, munkaerő átszervezésére. Ennek keretében kiemelten munkaszerződések (ideértve a vezetői munkaszerződéseket), munkáltatói szabályzatok szerkesztésében tudunk közreműködni",
+        "descriptionP2": "A fentiek mellett közreműködünk egyedi munkajogi intézkedések véghezvitelében (pl. felmondások, fegyelmi eljárások stb.) mind munkáltatói mind munkavállalói oldalon.",
+        "descriptionP3": "Esetlegesen kialakult munkajogi jogvitákban való egyeztetést és bíróság előtti pervitelt jogviták rendezésekeretében mozdítjuk előre",
+        "descriptionP4": "",        
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis"
+    },
+    {
+        "id": "financing",
+        "name": "Finanszírozás",
+        "descriptionP1": "",
+        "descriptionP2": "",
+        "descriptionP3": "",
+        "descriptionP4": "",        
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis"
+    },
+    {
+        "id": "litigation",
+        "name": "Perek",
+        "descriptionP1": "Irodánk mind peres, mind peren kívüli vitarendezésekben közreműködik, különös tekintettel az adóperekre",
+        "descriptionP2": "Irodánk minden szakterületen, de különösen a szerződések területén törekszik jövőbeli jogviták elkerülésére, azonban az emberi együttműködés minden azüzleti-mind a magánéletben sokszor nem hatékony, és egyúttal szándékok és nézetek ütköznek, viták és jogviták alakulnak ki. Ilyen esetben az egyetlen út a jogállam beavatkozása",
+        "descriptionP3": "Álláspontunk szerint nem a kedvező hatósági vagy bírósági döntés az elsődleges cél, hanem a jogvita ügyfelünk számára legjobb lezárása tűzendő ki célul.",
+        "descriptionP4": "",        
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis"
+    },
+    {
+        "id": "immigration",
+        "name": "Bevándorlási jog",
+        "descriptionP1": "",
+        "descriptionP2": "",
+        "descriptionP3": "",
+        "descriptionP4": "",        
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis"
+    },
+    {
+        "id": "legalentities",
+        "name": "Jogi személyek",
+        "descriptionP1": "Irodánk évtizedes tapasztalattalrendelkezik gazdasági társaságokalapítása,átstrukturálása, tőkét érintő változásai, megszüntetése, illetvea mindennapi társasági változások cégbírósági bejelentése területén. Szintén örömmel működünk közre a folyamatos jogszabályi megfelelésben és a megszüntetési eljárások során a hitelezői igényérvényesítésben.",
+        "descriptionP2": "Valljuk, hogy a legfontosabb minden cégügy esetében a gyors, hatékony információkérés és a precíz előkészítés, mellyel a leggyorsabban és a legkisebb költségráfordítással tudunk dolgozni.",
+        "descriptionP3": "A társaság működéséért való jogi felelősség a vezető tisztségviselőkben testesül meg. Gyakran nyújtunk segítséget vállalatoknak a vezető tisztségviselőkjogszerű eljárásával, jogaival és kötelezettségeivel kapcsolatban. Vezetői munkaszerződésekben munkajogiterületen, vezetőkkel szembeni igényérvényesítéssel jogviták rendezésekeretében foglalkozunk.",
+        "descriptionP4": "",        
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis"
+    },
+    {
+        "id": "realestate",
+        "name": "Ingatlanjog",
+        "descriptionP1": "Az ingatlanjog irodánk kiemelt szakterülete, tapasztalatokkal rendelkezik különösen ipari, kereskedelmi és lakóingatlanok akvizíciójában és értékesítésében, bérleti szerződésekszerkesztésében és társasházalapításban. Akvizíció esetén a jogi due diligence eljárás lefolytatását illetve az egyéb átvilágítások koordinációját végezzük.",
+        "descriptionP2": "Ingatlannyilvántartási eljárások zökkenőmentes lebonyolításában kiemelt szerepet kap mind az ágazati jogszabályok mind a földhivatali gyakorlat alapos ismerete. Szintén fontos a felek által lényegesnek tekintett kérdések kezdeti tisztázása, elkerülve felesleges kiadásokat, időráfordításokat, de legfőképpen a jogvitákat. Irodánk szándéknyilatkozatok előkészítésétől a vételi ajánlatok, előszerződésés végleges adásvételi szerződés szerkesztésén át a földhivatal általi végleges határozatig végigkíséri az adásvételi folyamatot.",
+        "descriptionP3": "",
+        "descriptionP4": "",        
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis"
+    },
+    {
+        "id": "contracts",
+        "name": "Szerződések joga",
+        "descriptionP1": "Ügyfeleink által kért minden szerződést és megállapodást arra tekintettel készítünk, hogy az az a manapság rohamosan változó jogszabályi és üzleti környezet ellenére évtizedes távlatokban is megállja a helyét módosítások és jogviták nélkül.",
+        "descriptionP2": "Egy szerződés esetén a legfontosabb a szerződéses tárgyalások alatti hatékony kommunikáció és a felek közös szándékának mielőbbi pontosítása, tisztázása és írásba foglalása.",
+        "descriptionP3": "A legtöbb esetben a jogi környezetnek megfelelő, bevált, de mindenben személyre szabott megoldásokkal állunk ügyfeleink rendelkezésére.",        
+        "descriptionP4": "",
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis"
+    },
+    {
+        "id": "tax",
+        "name": "Adójog",
+        "descriptionP1": "",
+        "descriptionP2": "",
+        "descriptionP3": "",
+        "descriptionP4": "",        
+        "expertId1": "balazs-lohn",
+        "expertId2": "balazs-kis"
+    }
+    
+]
