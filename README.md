@@ -1,3 +1,5 @@
+Ideiglenes itt megtekinthető a beüzemelt verzió: <strong>gergelyszalay.hu</strong>
+
 # Szükséges szerverbeállítások
 
 Mivel egyetlen, dinamikusan feltöltött html fájlból áll a weboldal, ezért minden, a domainnév kezdetű, beérkező http kérést át kell írányítáni az index.html fájlra.
