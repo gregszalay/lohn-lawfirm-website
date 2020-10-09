@@ -205,7 +205,7 @@ function loadHomepage(dataObject) {
     console.log("loadhomepage called");
     createAndInserTemplate("homepageContentTemplate", "main-content-section", dataObject);
     let url = getConstructedURL("home");
-    modifyHistoryStack(url, "", url);
+    modifyHistoryStack(url, "", "/" + url);
     console.log("Pushed " + url);
     closeHamburger();
     closeLanguages();
@@ -536,8 +536,6 @@ for (let index = 0; index < languageCodes.length; index++) {
             }
         }
     }
-    console.error("classification of extension failed");
-
 }
 
 
@@ -547,7 +545,7 @@ for (let index = 0; index < languageCodes.length; index++) {
 //JSON files can be found at this location
 const jsonUrl = "/data/"
 var jsonsToDownload = ["generalData", "teamData", "expertiseData"];
-window.localStorage.setItem("jsonLanguageCode", "HU");
+//window.localStorage.setItem("jsonLanguageCode", "none");
 var dataObjectGlobal;
 var languageCodes = ["HU", "EN", "DE", "RU"];
 var subPageURLs = {
@@ -627,7 +625,10 @@ function getUserLanguage() {
 
 window.onload = function () {
     getUserLanguage().then(userLanguage => {
-        window.localStorage.setItem("jsonLanguageCode", userLanguage);
+        console.log(window.localStorage.getItem("jsonLanguageCode"));
+        if(window.localStorage.getItem("jsonLanguageCode") == undefined){
+            window.localStorage.setItem("jsonLanguageCode", userLanguage);
+        }
         console.log("userLanguage is " + userLanguage);
         var subDirectoryName = window.location.href.split("/")[window.location.href.split("/").length - 1];
         parseJsonAndLoadData().then(resultObject => checkPageToLoad(resultObject, subDirectoryName, languageCodes.indexOf(window.localStorage.getItem("jsonLanguageCode"))));
