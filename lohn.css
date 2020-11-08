@@ -25,6 +25,43 @@ body {
     overflow-x: hidden;
     min-height: 100vh;
 }
+/*
+#interactive-hovercard{
+    width: 300px;
+}
+
+#interactive-hovercard .widget-pane {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(60,64,67,.28);
+}
+
+.widget-pane {
+    width: 408px;
+    position: absolute;
+    top: 0;
+    z-index: 3;
+    opacity: 0;
+    height: 0;
+    left: 0;
+    -webkit-transform: translateX(0px);
+    transform: translateX(0px);
+    transition-property: -webkit-transform,transform,opacity;
+    transition-duration: 0.2s;
+    transition-timing-function: cubic-bezier(0.0,0.0,0.2,1);
+}*/
+
+/*
+.infowindow-container {
+    width: 330px;
+}
+
+.inner {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    padding: 10px;
+}*/
 
 footer, .navbar {
     background-color: black;
@@ -230,7 +267,7 @@ div, footer {
 
 .hideable-link {
     height: 45px;
-    margin: 0 5px 0 5px;
+    margin: 5px;
     min-width: 100px;
     display: flex;
     justify-content: center;
@@ -432,7 +469,7 @@ div, footer {
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
-   /* margin: 40px 50px 50px 50px;*/
+    /* margin: 40px 50px 50px 50px;*/
     position: relative;
     top: 0;
 }
@@ -994,6 +1031,10 @@ footer .contentWrapper {
         min-height: 0;
         margin: 0;
         position: absolute;
+    }
+    .hideable-link-wrapper a:hover {
+        background-color: #555;
+        color: white;
     }
     .serif, .sans-serif {
         font-size: 20px;

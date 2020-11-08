@@ -26,7 +26,7 @@ window.addEventListener('scroll', function (e) {
     }
 });
 
-function hide(x){
+function hide(x) {
     x.style.visibility = "hidden";
     x.style.overflow = "hidden";
     x.style.border = "none";
@@ -153,7 +153,7 @@ function showProfileDropdown(x, elementId) {
 // GOOGLE MAPS
 
 var googleMapsScript = document.createElement('script');
-googleMapsScript.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyATyvTDlUmR9o_1tVNqMSyx0stPzvJpjeg&v=weekly&callback=initMap&libraries=&v=beta&map_ids=e4c80722b99a2313';
+googleMapsScript.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyATyvTDlUmR9o_1tVNqMSyx0stPzvJpjeg&v=weekly&callback=initMap&libraries=places&v=beta&map_ids=e4c80722b99a2313';
 googleMapsScript.defer = true;
 
 function initMap() {
@@ -161,7 +161,7 @@ function initMap() {
         lat: 47.492094,
         lng: 19.057145
     };
-    let map = new google.maps.Map(document.getElementById("map"), {
+    map = new google.maps.Map(document.getElementById("map"), {
         mapId: "e4c80722b99a2313",
         center: myLatLng,
         zoom: 16,
@@ -176,7 +176,7 @@ function initMap() {
 
     });
     marker.addListener('click', toggleBounce);
-
+    
     function toggleBounce() {
         window.location.href = dataObjectGlobal.generalData.googleMapsLink;
     }
@@ -388,7 +388,7 @@ function parseJsonAndLoadData() {
 // load http requested page
 
 function loadNavAndFooter(dataObject) {
-    createAndInserTemplate("navbarTemplate", "navbar", dataObject);  
+    createAndInserTemplate("navbarTemplate", "navbar", dataObject);
     console.log("navbar loaded");
     createAndInserTemplate("footerTemplate", "footer", dataObject);
     console.log("footer loaded");
@@ -409,7 +409,7 @@ function checkPageToLoad(dataObject, subPage, initialLanguageIndex) {
             var flag2 = checkIfSubPageAndLanguageMatch(dataObject, subPage, languageCodes[index]);
             var flag3 = checkIfSubPageAndLanguageMatch(dataObject, window.localStorage.getItem("jsonLanguageCode"), languageCodes[index]);
             if (flag2 || flag3) {
-                window.localStorage.setItem("jsonLanguageCode",languageCodes[index]);
+                window.localStorage.setItem("jsonLanguageCode", languageCodes[index]);
                 if (subPage.localeCompare("") == 0) {
                     loadPageByExtension(dataObject, window.localStorage.getItem("jsonLanguageCode"), true, languageCodes.indexOf(window.localStorage.getItem("jsonLanguageCode")));
                     return;
@@ -426,7 +426,7 @@ function checkIfSubPageAndLanguageMatch(dataObject, subPage, languageIndex) {
     console.log("checkIfSubPageAndLanguageMatch()");
     flag = false;
     if (
-        (subPage.localeCompare("") == 0 &&  window.localStorage.getItem("jsonLanguageCode").localeCompare("HU") == 0)
+        (subPage.localeCompare("") == 0 && window.localStorage.getItem("jsonLanguageCode").localeCompare("HU") == 0)
         || subPage.localeCompare(window.localStorage.getItem("jsonLanguageCode")) == 0
         || subPage.localeCompare(subPageURLs["team"][languageIndex]) == 0
         || subPage.localeCompare(subPageURLs["expertise"][languageIndex]) == 0
@@ -468,18 +468,18 @@ function loadPage(dataObject, isNewDataLoadNeeded, pageLoadFunction, additionalF
 function loadPageByExtension(dataObject, subPage, isNewDataLoadNeeded, languageIndex) {
     console.log("loadPageByExtension()");
     console.log("subPage" + subPage);
-for (let index = 0; index < languageCodes.length; index++) {
-    if(subPage.localeCompare(subPageURLs.team[index]) == 0 ){
-        subPage = subPageURLs.team[languageIndex];
-    } else if(subPage.localeCompare(subPageURLs.expertise[index]) == 0 ){
-        subPage = subPageURLs.expertise[languageIndex];
-    } else if(subPage.localeCompare(subPageURLs.contact[index]) == 0 ){
-        subPage = subPageURLs.contact[languageIndex];
-    } else if(subPage.localeCompare(subPageURLs.legal[index]) == 0 ){
-        subPage = subPageURLs.legal[languageIndex];
+    for (let index = 0; index < languageCodes.length; index++) {
+        if (subPage.localeCompare(subPageURLs.team[index]) == 0) {
+            subPage = subPageURLs.team[languageIndex];
+        } else if (subPage.localeCompare(subPageURLs.expertise[index]) == 0) {
+            subPage = subPageURLs.expertise[languageIndex];
+        } else if (subPage.localeCompare(subPageURLs.contact[index]) == 0) {
+            subPage = subPageURLs.contact[languageIndex];
+        } else if (subPage.localeCompare(subPageURLs.legal[index]) == 0) {
+            subPage = subPageURLs.legal[languageIndex];
+        }
+
     }
-    
-}
 
     console.log("subPageTranslated" + subPage);
     loadNavAndFooter(dataObject);
@@ -626,7 +626,7 @@ function getUserLanguage() {
 window.onload = function () {
     getUserLanguage().then(userLanguage => {
         console.log(window.localStorage.getItem("jsonLanguageCode"));
-        if(window.localStorage.getItem("jsonLanguageCode") == undefined){
+        if (window.localStorage.getItem("jsonLanguageCode") == undefined) {
             window.localStorage.setItem("jsonLanguageCode", userLanguage);
         }
         console.log("userLanguage is " + userLanguage);
