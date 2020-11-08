@@ -635,7 +635,7 @@ div, footer {
 }
 
 .contactListItem p {
-    margin-right: 10px;
+    margin-right: 0;
 }
 
 .portrait-img {
@@ -778,7 +778,7 @@ div, footer {
 
 .contactListItem img {
     width: 18px;
-    margin: 15px 0 15px 20px;
+    margin: 15px 0 15px 10px;
 }
 
 .arrowSection {
@@ -1015,8 +1015,9 @@ footer .contentWrapper {
         width: 200px;
     }
     .contactListItem img {
-        width: 28px;
-        margin: 15px;
+        width: 22px;
+        margin-bottom: 15px;
+        margin-top: 15px;
     }
     .emeaLawyerImage {
         width: 125px;
