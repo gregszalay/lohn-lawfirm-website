@@ -470,6 +470,7 @@ div, footer {
     justify-content: center;
     align-items: flex-start;
     /* margin: 40px 50px 50px 50px;*/
+    margin-bottom: 150px;
     position: relative;
     top: 0;
 }
