@@ -1,4 +1,4 @@
-Ideiglenes itt megtekinthető a beüzemelt verzió: <strong>gergelyszalay.hu</strong>
+Ideiglenes itt megtekinthető a beüzemelt verzió: <strong>lohn.gergelyszalay.hu</strong>
 
 # Szükséges szerverbeállítások
 
