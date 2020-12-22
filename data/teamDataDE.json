@@ -1,212 +1,192 @@
-[{
-    "id": "balazs-lohn",
-    "name": "Dr. Balázs Lohn",
-    "title": "",
-    "email": "balazs.lohn@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "Deutsch - English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "eszter-nagy-mihaly",
-    "name": "Dr. Eszter Nagy-Mihály",
-    "title": "",
-    "email": "eszter.nagy-mihaly@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "Deutsch - English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "marta-mraz",
-    "name": "Dr. Márta Mráz",
-    "title": "",
-    "email": "marta.mraz@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "Deutsch - English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "balazs-kis",
-    "name": "Dr. Balázs Kis",
-    "title": "",
-    "email": "balazs.kis@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "gergely-kostenszky",
-    "name": "Dr. Gergely Kostenszky",
-    "title": "",
-    "email": "gergely.kostenszky@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "monika-lefler",
-    "name": "Dr. Mónika Lefler",
-    "title": "",
-    "email": "monika.lefler@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar - Italiano",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "gyorgy-sebestyen",
-    "name": "Dr. György Sebestyén LL.M.",
-    "title": "",
-    "email": "gyorgy.sebestyen@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "laszlo-solti-toth",
-    "name": "Dr. László Solti-Tóth",
-    "title": "",
-    "email": "laszlo.solti-toth@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "Deutsch - English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "adam-tarr",
-    "name": "Dr. Ádám Tarr, LL.M.",
-    "title": "",
-    "email": "adam.tarr@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "Deutsch - English - Magyar",
-    "introduction": "Adam TARR LL.M., dr. iur. (PPKE Bp.) ist Kooperationspartner der Kanzlei Lohn als ungarischer Rechtsbeistand (ügyvéd). 2010 erhielt er sein Diplom von der Katolischen Péter-Pázmány Universität, Fakultät für Rechtswissenschaften. 2007 nahm er einer Sommeruniversität in der Schweiz im Bereich vergleichender Rechtslehre teil, 2008 studierte er ein Auslandssemester an der Aarhus Universität. 2009-2010 arbeitete er in einem Vergaberechtsberaterbüro. Nach dem Studium hielt er sich vier Jahre lang in Deutschland auf. 2014 wurde ihm der akademische Titel 'Magister Legum' (LL.M.) von der Universität Regensburg in deutschem Reht verliehen. 2013-2014 arbeitete er bei renommierten Steuerberatungskanzleien in München im Bereich der Einkommensteuer und Umsatzsteuer. Vom Januar 2015 bis Ende Februar 2016 arbeitete er in einer Kanzlei in Budapest im Bereich der deutschen, österreichischen und ungarischen Zoll-, Steuer- und Wirtschaftsrechts. Er schloss sich der Kanzlei im Februar 2016 an. Im Oktober 2019 ist er in die Rechtsanwaltskammer in Ungarn als Mitglied aufgenommen worden. Seit Juli 2020 ist er Mitglied der Rechtsanwaltskammer München und er ist berechtigt in Deutschland als Rechtsbeistand zu agieren. Er spricht fließend Englisch und Deutsch. [Anmerkung: Die 'Dr.' (dr., dr. iur.) Titel der Kollegen unserer Kanzlei sind als Berufsdoktorate (Doctor iuris et rerum politicarum) im Sinne des Art. 4 Abs. (3) U.Abs. 2 des Deutsch-Ungarischen Abkommens vom 1. Dezember 2001 (BGBl. Teil II. Nr. 21, Ausgegeben zu Bonn am 8. Juli 2004) zu verstehen.]",
-    "profileButtonText": ""
-},
-{
-    "id": "gyorgy-kecser",
-    "name": "Dr. György Kecser",
-    "title": "",
-    "email": "gyorgy.kecser@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "kinga-csikos",
-    "name": "Dr. Kinga Csikós",
-    "title": "",
-    "email": "kinga.csikos@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "emese-kavassy",
-    "name": "Dr. Emese Kávássy",
-    "title": "",
-    "email": "emese.kavassy@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "borbala-maglai",
-    "name": "Dr. Borbála Maglai",
-    "title": "",
-    "email": "borbala.maglai@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar - Српски",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "gergely-szalay",
-    "name": "Dr. Gergely Szalay",
-    "title": "",
-    "email": "gergely.szalay@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "tamas-szerbin",
-    "name": "Dr. Tamás Szerbin",
-    "title": "",
-    "email": "tamas.szerbin@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar - русский",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "katalin-toth",
-    "name": "Dr. Katalin Tóth",
-    "title": "",
-    "email": "katalin.toth@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "krisztian-kerek",
-    "name": "Dr. Krisztián Kerék",
-    "title": "",
-    "email": "krisztian.kerek@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar - русский",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "zita-varga",
-    "name": "Dr. Zita Varga",
-    "title": "",
-    "email": "zita.varga@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "agnes-sarkadi-nagy",
-    "name": "Ágnes Sarkadi-Nagy",
-    "title": "",
-    "email": "agnes.sarkadi-nagy@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "alexandra-varszegi",
-    "name": "Alexandra Várszegi",
-    "title": "",
-    "email": "alexandra.varszegi@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-},
-{
-    "id": "annamaria-lohn",
-    "name": "Annamária Lohn",
-    "title": "",
-    "email": "annamaria.lohn@lohn.hu",
-    "mobile": "+36 1 999 1233",
-    "languages": "English - Magyar",
-    "introduction": "",
-    "profileButtonText": ""
-}
-
+[
+    {
+        "id": "balazs-lohn",
+        "name": "Dr. Balázs Lohn",
+        "title": "",
+        "email": "balazs.lohn@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "Deutsch - English - Magyar",
+        "introduction": "Herr Balázs Lohn, dr. iur. (Univ. ELTE Bp.) ist ungarischer Rechtsbeistand (ügyvéd) und Mitglied der Rechtsanwaltskammer Budapest. Er schloss sein Studium an der ELTE Fakultät für Rechtswissenschaft im Jahr 2004 ab. In den Jahren 2003-2004 studierte er an der Universität Heidelberg. Von 2004 bis 2007 war er Doktorand an der ELTE und arbeitete gleichzeitig bei einer internationalen Kanzlei. In den Jahren 2007 und 2008 arbeitete er als Syndikus in Luxemburg. Er gründete die Kanzlei Lohn im Jahr 2008. Seine zwei Veröffentlichungen in der Bürgerrechtlichen Kodifikation und drei weiteren Aufsätze in anderen Zeitschriften wurden vom wissenschaftlichen Umfeld positiv aufgenommen. In der Rechtsanwaltskammer hielt er jahrelang prozessrechtliche Weiterbildungen für angehende Rechtsanwälte. Er nahm an der Arbeit vom Ausschuss zur Neukodifizierung der Zivilprozessordnung teil. Seine Schwerpunktbereiche sind: Rechtsstreitigkeiten, Immobilientransaktionen, Energierecht, Umsetzung von Projekten im Gastgewerbe, Arbeitsrecht, Steuern und geistiges Eigentum, M&A und Finanzierung. Herr Lohn spricht fließend Englisch und Deutsch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "eszter-nagy-mihaly",
+        "name": "Dr. Eszter Nagy-Mihály",
+        "title": "",
+        "email": "eszter.nagy-mihaly@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "Deutsch - English - Magyar",
+        "introduction": "Frau Eszter Nagy-Mihály, dr. iur. (Univ. SZE Szeged) ist ungarischer Rechtsbeistand (ügyvéd) und Mitglied der Rechtsanwaltskammer Budapest. Sie studierte an der Széchenyi István Universität, Fakultät für Rechtswissenschaften im Jahr 2008. 2007-2008 war sie Stipendiatin der Universität Passau. Sie engagierte sich wissenschaftlich an der Uni und gewann den zweiten Platz mit Ihrer Arbeit mit dem Titel „Terrorismusbekämpfung und intelligente Sanktionen des UN-Sicherheitsrats” an der Nationalen Wissenschaftlichen Studentenkonferenz. Der Kanzlei Lohn schloss sie sich im Jahr 2008 an. Ihren zweiten Abschuss „Internationale Beziehungen” erhielt sie von der Budapest Business School im Jahr 2012. Ihre Schwerpunktbereiche umfassen Vollstreckungsverfahren, Streitsachen, Gesellschaftsrecht und Arbeitsrecht. Sie spricht fließend Englisch und Deutsch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "marta-mraz",
+        "name": "Dr. Márta Mráz",
+        "title": "",
+        "email": "marta.mraz@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "Deutsch - English - Magyar",
+        "introduction": "Frau Márta Mráz, dr. iur. (Univ. ELTE Bp.) ist ungarischer Rechtsbeistand (ügyvéd) und Mitglied der Rechtsanwaltskammer Budapest. Sie schoss ihr Studium an der Eötvös Loránd Universität, Fakultät für Rechtswissenschaften im Jahr 2011 ab. Sie studierte internationales Privatrecht an der Universität Salzburg im Jahr 2010. Während ihres Studiums arbeitete sie 2,5 Jahre als Praktikant bei einer Kanzlei in Budapest. Seit ihrem Abschluss arbeitet sie bei der Kanzlei Lohn. Im Jahr 2020 erhielt sie ihr zweites Diplom von der Corvinus Universität Budapest in Ökonomie. Ihre Schwerpunktbereiche sind: Zivilrecht, Rechtsstreitigkeiten, geistiges Eigentum, Arbeitsrecht, Verbraucherschutz, Datenschutz, Immobilienrecht. Sie spricht fließend Englisch und Deutsch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "balazs-kis",
+        "name": "Dr. Balázs Kis",
+        "title": "",
+        "email": "balazs.kis@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar",
+        "introduction": "Herr Balázs Kis, dr. iur. (Univ. SZE Szeged) ist ungarischer Rechtsbeistand (ügyvéd) und Mitglied der Rechtsanwaltskammer Budapest. Er studierte an der Universität Szeged, Fakultät für Rechtswissenschaften in 2008. Im Semester 2007/2008 studierte er an der Universität Mainz, wonach er an einem Amerikanischen Rechtsexpertenprogramm an der Universität Toledo, Ohio (USA) teilnahm. Balázs begann seine berufliche Laufbahn bei einer unabhängigen juristichen Monatszeitschrift in der Innenstadt von London, wonach er eine Zeit lang als Syndikus bei einem multinationalen Unternehmen arbeitete. Bei der Kanzlei Lohn arbeitet er seit 2012. Balázs ist ein erfahrener Jurist mit über 10 Jahren Praxiserfahrung im Bereich des Unternehmensrechts, M&A und Immobilientransaktionen einschließlich Restrukturierungen im In- und Ausland. Er hat ungarische und multinationale Mandanten in zahlreichen Transaktionen von Gastgewerbe, Automobilindustrie, Banken und IT-Unternehmen. Er berät Mandanten im Tagesgeschäft von laufenden Projekten betreffend Beteiligungen am außerbörslichen Eigenkapital bzw. Wagniskapital, im Bereich der Telekommunikation, der Bauplanung und der Bauausführung. Balázs spricht fließend Englisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "gergely-kostenszky",
+        "name": "Dr. Gergely Kostenszky",
+        "title": "",
+        "email": "gergely.kostenszky@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar",
+        "introduction": "Herr Gergely Kostenszky, dr. iur. (Univ. KRE Bp.) ist ungarischer Rechtsbeistand (ügyvéd) und Mitglied der Rechtsanwaltskammer Budapest. Sein Studium schloss er an der Károli Gáspár Universität, Fakultat für Rechtswissenschaft im Jahre 2009 ab. Seine Berufslaufbahn begann er in einer Kanzlei. Im Jahr 2014 wurde ihm der Titel LL.M. von der London South Bank Universität verliehen. Seine Schwerpunktbereiche sind: Immobilienrecht, Baurecht, Gesellschaftsrecht und Rechtsstreitigkeiten. Er spricht fließend Englisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "monika-lefler",
+        "name": "Dr. Mónika Lefler",
+        "title": "",
+        "email": "monika.lefler@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar - Italiano",
+        "introduction": "Frau Mónika Lefler, dr. iur (Univ. PPKE Bp.) ist ungarischer Rechtsbeistand und Mitglied der Rechtsanwaltskammer Budapest. Ihren Sie studierte an der Katholischen Péter-Pázmány Universität, Fakultät für Rechtswissenschaften, Abschlussjahr: 2008. Sie war auch Stipendiatin der Universitá degli Studi Roma Tre. Zwischen 2008 und 2009 arbeitete sie bei einer Vergaberechtskanzlei, im Jahr 2010 arbeitet sie als Vergaberechtsberaterin in Budapest. Von 2010 bis 2012 arbeitete sie als Rechtsanwaltsanwärter. Ihre Spezialgebiete sind: Familienrecht, Arbeitsrecht, Gesellschaftsrecht, Immobilienrecht und Vergaberecht. Sie vertritt unsere Mandanten in gerichtlicher und außergerichtlicher Streitbeilegung. Mit ihrer umfassenden Kompetenz unterstützt sie uns bei der Durchsetzung der Interessen unserer Mandantenschaft. Sie spricht fließend Italienisch und Englisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "gyorgy-sebestyen",
+        "name": "Dr. György Sebestyén LL.M.",
+        "title": "",
+        "email": "gyorgy.sebestyen@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar",
+        "introduction": "Herr György Sebestyén, dr. iur. (Univ. PPKE Bp.) LL.M. ist ungarischer Rechtsbeistand (ügyvéd). Er arbeitete bereits als Rechtsanwaltsanwärter bei der Kanzlei Lohn und seit 2018 unterstützt er die Kanzlei als externer Kooperationspartner. Er hat viel Praxiserfahrung und vertieftes Wissen über Immobilientransaktionen, Wettbewerbsrecht, Gesellschaftsrecht, Arbeitsrecht, gerichtliche und außergerichtliche Streitbeilegung. Er studierte in Ungarn an der Katholischen Péter-Pázmány Universität, Fakultät für Rechtswissenschaften und im Ausland an der University of Abertay Dundee (European Business Law) sowie an der University of East England (LL.M. in International Competition Law). Er spricht fließendes Englisch auf hohem fachlichem Niveau.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "laszlo-solti-toth",
+        "name": "Dr. László Solti-Tóth",
+        "title": "",
+        "email": "laszlo.solti-toth@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "Deutsch - English - Magyar",
+        "introduction": "Herr László Solti-Tóth, dr. iur (Univ. ELTE Bp.) ist ungarischer Rechtsbeistand (ügyvéd) und Mitglied der Rechtsanwaltskammer Budapest. Seinen Abschluss erhielt er von der ELTE Universität im Jahr 2012. Darauf folgend schloss er ein betriebswirtschaftliches Studium an der Business School in Budapest ab. Während seiner Studien sammelte er viel Erfahrung als Praktikant bei diversen Kanzleien sowie beim Gericht. Er startete seine berufliche Laufbahn bei einer unabhängigen Kanzlei. Dabei hat er insbesondere an Risikokapital-Investitionen, an vielen M&A Transaktionen sowie Angelegenheiten des Unternehmensrechts und streitigen Verfahen mitgearbeitet. Bei seiner nächsten Stelle betreute er Fälle im Banken- und Finanzrecht sowie im Gesellschaftsrecht. László trat der Kanzlei Lohn im Dezember 2015 bei. Seitdem arbeitet er im Bereich des Handels- und Strafrechts sowie der Streitbeilegung. Seit 2020 ist er Mitglied der Rechtsanwaltskammer Budapest und Kooperationspartner der Kanzlei Lohn. Er spricht Englisch und Deutsch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "adam-tarr",
+        "name": "Dr. Ádám Tarr, LL.M.",
+        "title": "",
+        "email": "adam.tarr@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "Deutsch - English - Magyar",
+        "introduction": "Adam Tarr LL.M., dr. iur. (Univ. PPKE Bp.) ist ungarischer Rechtsbeistand (ügyvéd) und Kooperationspartner der Kanzlei Lohn. Er studierte an der Katholischen Péter-Pázmány Universität in Budapest, Fakultät für Rechtswissenschaften (Abschlussjahr: 2010). Ferner studierte er vergleichende Rechtslehre in der Schweiz (2007) und er war Stipentiat der Aarhus Universität (2008). Von 2009 bis 2010 arbeitete er in der Vergaberechtsberatung. Vom April 2011 bis Ende 2014 studierte und arbeitete er in Deutschland. Im Jahr 2014 ist ihm der akademische Titel "Magister Legum" (LL.M.) von der Universität Regensburg in deutschem Recht verliehen worden. In den Jahren 2013 und 2014 arbeitete er bei renommierten Steuerberatungskanzleien in München im Bereich der Einkommens- und Umsatzsteuer. Von Januar 2015 bis Ende Januar 2016 arbeitete er bei einer Kanzlei in Budapest im Bereich des deutschen, österreichischen und ungarischen Zoll-, Steuer- und Wirtschaftsrechts. Er schloss sich der Kanzlei Lohn im Februar 2016 an. Im Oktober 2019 ist er in die Rechtsanwaltskammer der Komitat Békés in Ungarn als Mitglied aufgenommen worden. Seit Juli 2020 ist er Mitglied der Rechtsanwaltskammer München und damit berechtigt in der Bundesrepublik Deutschland als Rechtsbeistand zu agieren. Er spricht fließend Englisch und Deutsch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "gyorgy-kecser",
+        "name": "Dr. György Kecser",
+        "title": "",
+        "email": "gyorgy.kecser@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar",
+        "introduction": "Herr György Kecser, dr. iur (Univ. ELTE Bp.) ist ungarischer Rechtsbeistand und Mitglied der Rechtsanwaltskammer Budapest. Sein Studium schloss er an der Eötvös Loránd Universität Fakultät für Rechtswissenschaften im Jahr 2014 ab. Zwischen 2011 und 2012 studierte er in Polen an der Uniwersytetu Jagiellońskiego in Kraków. Im Jahr 2013 war er Praktikant im britischen Unterhaus bzw. House of Commons in London, England. 2014 arbeitete er als Rechtsreferendar bei internationalen Kanzleien. Seit 2018 ist er Kooperationspartner der Kanzlei Lohn. Er spricht fließend Englisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "emese-kavassy",
+        "name": "Dr. Emese Kávássy",
+        "title": "",
+        "email": "emese.kavassy@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar",
+        "introduction": "Frau Emese Kávássy, dr. iur (Univ. SZE Szeged) ist ungarischer Rechtsbeistand (ügyvéd) und Mitglied der Rechtsanwaltskammer Budapest. Sie studierte an der Szeged Universität, Fakultät für Rechtswissenschaften, Abschlussjahr: 2013. Während ihres Studiums spezialisierte sie sich im Wirtschaftsrecht. Anschließend erhielt sie ihren LL.M. Abschluss als juristische Fachübersetzerin der englischen Sprache. Im Jahr 2014 arbeitete sie als Referendarin bei internationalen Kanzleienund ist seit 2020 bei der Kanzlei Lohn tätig. Ihre Schwerpunktbereiche sind: Gesellschaftsrecht, Handelsrecht, Transaktionen, Arbeitsrecht und Immobilienrecht. Sie spricht fließend Englisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "borbala-maglai",
+        "name": "Dr. Borbála Maglai",
+        "title": "",
+        "email": "borbala.maglai@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar - Српски",
+        "introduction": "Frau Borbála Maglai, dr. iur. (Univ. ELTE Bp.) ist ungarische Rechtsreferendarin. Ihr Studium schloss sie an der Eötvös Loránd Universität Fakultät für Rechtswissenschaften im Jahr 2017 ab. Während ihres Studiums arbeitete sie als Praktikantin bei zahlreichen Kanzleien in Budapest. Zudem erwarb sie das Internationale Zertifikat in Juristischem Englisch (Cambridge). Gleich nach ihrem Abschluss begann sie bei der Kanzlei Lohn zu arbeiten. Sie hat mehrere Praktika geleistet: 2017 in Baku, 2018 in Prag. Ihre Schwerpunktbereiche sind: Zivilrecht, Rechtssteitigkeiten, Datenschutz, geistiges Eigentum, Arbeitsrecht und Ausländerrecht. Sie spricht fließend Englisch, Serbisch und sie kann sich auf Russisch unterhalten.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "gergely-szalay",
+        "name": "Dr. Gergely Szalay",
+        "title": "",
+        "email": "gergely.szalay@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar",
+        "introduction": "Herr Gergely Szalay, dr. iur. (Univ. ELTE Bp.) ist ungarischer Rechtsreferendar. Seinen Abschluss erhielt er an der Eötvös Loránd Universität Fakultät für Rechtswissenschaften im Jahr 2017. Während seines Studiums arbeitete er als Praktikant bei zahlreichen renommierten Kanzleien in Budapest und sammelte dabei Erfahrungen im Arbeitsrecht, Rechtssteitigkeiten und M&A. Gleich nach seinem Abschluss begann er bei der Kanzlei Lohn zu arbeiten. Seine Schwerpunktbereiche sind Zivilrecht, Rechtssteitigkeiten, Gesellschaftsrecht, geistiges Eigentum und Arbeitsrecht. Er spricht fließend Englisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "tamas-szerbin",
+        "name": "Dr. Tamás Szerbin",
+        "title": "",
+        "email": "tamas.szerbin@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar - русский",
+        "introduction": "Herr Tamás Szerbin, dr. iur. (Univ. PPKE Bp.) arbeitet bei der Kanzlei Lohn seit März 2019. Er studierte an der Katholischen Péter-Pázmány Universität, Fakultät für Rechtswissenschaften. Seinen Masterabschluss in Politologie erhielt er von der ELTE Universität. Darüber hinaus studierte er internationale Beziehungen an der Corvinus Universität in Budapest. Er war Stipendiat des Moskauer Staatsinstitutes für Internationale Beziehungen (MGIMO) und Institut d'études politiques de Paris (Sciences Po). Tamás arbeitete jahrelang als studentischer Mitarbeiter am Lehrstuhl der Vergleichenden Ökonomie der Corvinus Universität in Budapest. Bevor er bei der Kanzlei Lohn arbeitete, war er bei bekannten multinationalen Unternehmen und bei einer renommierten Kanzlei in Budapest tätig. Seine Schwerpunktbereiche sind: Rechtssteitigkeiten, Baurecht und Ausländerrecht. Er spricht fließend Englisch und Russisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "katalin-toth",
+        "name": "Dr. Katalin Tóth",
+        "title": "",
+        "email": "katalin.toth@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar",
+        "introduction": "Frau Katalin Tóth, dr. iur. (Univ. ELTE Bp.) ist ungarische Rechtsreferendarin. Ihr Studium schloss sie „summa cum laude“ an der Eötvös Loránd Universität Fakultät für Rechtswissenschaften im Jahr 2019 ab. Während ihres Studiums arbeitete sie als Praktikantin bei zahlreichen Kanzleien in Budapest und sammelte Erfahrungen im Bereich des Zivilrechts. Im August 2019, gleich nach ihrem Abschluss, begann sie bei der Kanzlei Lohn zu arbeiten. Seitdem arbeitet sie vornehmlich im Bereich des Gesellschaftsrechts, Streitsachen und Arbeitsrecht. Sie spricht fließend Englisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "zita-varga",
+        "name": "Dr. Zita Varga",
+        "title": "",
+        "email": "zita.varga@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar",
+        "introduction": "Frau Zita Varga, dr. iur. (Univ. SZE Szeged) studierte an der Szeged Universität, Fakultät für Rechtswissenschaften (Abschlussjahr: 2020). Während ihres Studiums spezialisierte sie sich im Wirtschaftsrecht und Entwicklungsrechts. Sie arbeitete als studentische Hilfskraft bei dem Institut für Wirtschaftsrecht der Universität und engagierte sich an der „Rechtsklinik“ Programm der Universität. Im Jahr 2019 war sie Stipendiatin an der Uniwersytetu Jagiellońskiego in Kraków in Polen. Mit ihrer wissenschaftlichen Arbeit mit dem Titel „Trend der Technologie oder spiraler Kreislauf? - wiederkehrende Problemen des sachlichen Anwendungsbereichs des Medienrechts” gewann Sie eine Auszeichnung an der XXXIV. Nationalen Wissenschaftlichen Studentenkonferenz. Von 2017 bis 2019 arbeitete sie, neben ihrem Studium, als Praktikantin bei diversen internationalen Kanzleien. Neben ihrer Arbeit bei der Kanzlei Lohn ist sie auch Doktorandin der Universität Szeged. Sie erforscht den Zusammenhang zwischen Recht und Innovation. Sie spricht fließend Englisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "reka-fulop",
+        "name": "Dr. Fülöp Réka",
+        "title": "",
+        "email": "reka.fulop@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "English - Magyar",
+        "introduction": "Frau Réka Fülöp, dr. iur. (Univ. ELTE Bp.) studierte an der Eötvös Loránd Universität Fakultät für Rechtswissenschaften, Abschlussjahr: 2020. Während ihres Studiums arbeitete sie als Praktikantin bei zahlreichen Kanzleien in Budapest und auch bei der Nationalen Behörde für Datenschutz und Informationsfreiheit. Dabei sammelte sie Praxiserfahrungen im Bereich des Datenschutzes, Gesellschaftsrechts und des geistigen Eigentums. Sie begann bei der Kanzlei Lohn gleich nach ihrem Abschluss im August 2020 zu arbeiten. Sie spricht fließend Englisch.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "ljudmila-konyuhova",
+        "name": "Dr. Konyuhova Ljudmila",
+        "title": "",
+        "email": "ljudmila.konyuhova@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "Magyar - русский",
+        "introduction": "Frau Ljudmila Konyuhova, dr. iur. (Univ. ELTE Bp.) ist ungarischer Rechtsbeistand (ügyvéd) und Mitglied der Rechtsanwaltskammer Budapest. Sie studierte an der Eötvös Loránd Universität, Fakultät für Rechtswissenschaften (Abschlussjahr: 2010). Sie arbeitete sie als Referendarin bei einer Kanzlei in Budapest und sie war jahrelang bei einem multinationalen Unternehmen tätig, wo sie sich mit Arbeitsrecht, Forderungseintreibung und Ausländerrecht befasste. Seit September 2020 arbeitet sie bei der Kanzlei Lohn. Sie ist ungarischer und russischer Muttersprachler.",
+        "profileButtonText": ""
+    },
+    {
+        "id": "tatjana-krivszka",
+        "name": "Dr. Krivszka Tatjána",
+        "title": "",
+        "email": "tatjana.krivszka@lohn.hu",
+        "mobile": "+36 1 999 1233",
+        "languages": "Magyar - English - русский",
+        "introduction": "Frau Tatjána Krivszka, dr. iur. (Univ. PPKE Bp.) schloss ihr Studium an der Katholischen Péter-Pázmány Universität, Fakultät für Rechtswissenschaften ab (Abschlussjahr: 2009). Sie startete ihre Laufbahn während ihres Studiums bei einer renomierten Kanzlei in Budapest, bei welcher sie im Bereich Handelsrecht, Gesellschaftsrecht und Wirtschaftsrecht tätig war. Darauf folgend arbeitete sie als Syndikus bei einem schweizerischen Unternehmen. Von 2016 bis 2018 war sie bei einer internationalen Kanzlei im Bereich des Rechts des geistigen Eigentums, insbesondere des Markenschutzes, tätig. In den Jahren 2018 bis 2020 arbeitete sie als Syndikus bei der ungarischen Niederlassung von einer Tochtergesellschaft des staatlichen ROSATOM Konzerns. Seit September 2020 arbeitet Tatjána bei der Kanzlei Lohn. Ihre Spezialgebiete sind: Verträge, geistiges Eigentum, Arbeitsrecht und außergerichtliche Streitbeilegung. Ihr Einfühlungsvermögen und ihre konstruktive Lösungsfindung zeichnen sie aus. Ebenso legt sie Wert darauf sich weiterzuentwickeln. Sie spricht fließend Russisch und Englisch.",
+        "profileButtonText": ""
+    }
 ]

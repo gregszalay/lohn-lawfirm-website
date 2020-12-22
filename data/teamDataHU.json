@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": "balazs-lohn",
         "name": "Dr. Lohn Balázs",
         "title": "Irodavezető ügyvéd",
@@ -15,9 +16,8 @@
         "email": "eszter.nagy-mihaly@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English - Deutsch",
-        "introduction": "Dr. Nagy-Mihály Eszter ügyvédjelölt. 2008-ban szerezte meg diplomáját a Széchenyi István Egyetem Deák Ferenc Állam- és Jogtudományi Karán. A 2007/2008-as tanévben a Passaui Egyetemen ösztöndíjasként folytatott tanulmányokat. Tudományos diákköri munkájának eredményeként 2009-ben második helyezést ért el az Országos Tudományos Diákköri Konferencián „A terrorizmus elleni küzdelem és az ENSZ Biztonsági Tanácsának intelligens szankciói” című dolgozatával. Egyetemi tanulmányai folyamán gyakornokként tevékenykedett a Budapesti Nyomozó Ügyészségen. 2008-ban csatlakozott az irodához. 2012-ben a BGF Külkereskedelmi Karán nemzetközi tanulmányok szakon diplomát szerzett, valamint ugyanebben az évben mediátori képesítést is szerzett. Szakterületei a végrehajtási és a peres eljárások, a társasági jog és a munkajog. Folyékonyan beszél angolul és németül.",
+        "introduction": "Dr. Nagy-Mihály Eszter a Budapesti Ügyvédi Kamara által bejegyzett ügyvéd. 2008-ban szerezte meg diplomáját a Széchenyi István Egyetem Deák Ferenc Állam- és Jogtudományi Karán. A 2007/2008-as tanévben a Passaui Egyetemen ösztöndíjasaként folytatott tanulmányokat. Tudományos diákköri munkájának eredményeként második helyezést ért el az Országos Tudományos Diákköri Konferencián „A terrorizmus elleni küzdelem és az ENSZ Biztonsági Tanácsának intelligens szankciói” című dolgozatával. 2008-ban csatlakozott az irodához. 2012-ben a BGE Külkereskedelmi Karán nemzetközi tanulmányok szakon diplomát szerzett, valamint ugyanebben az évben mediátori képesítést is szerzett. Szakterületei a végrehajtási és a peres eljárások, a társasági jog és a munkajog. Folyékonyan beszél angolul és németül.",
         "profileButtonText": "Bemutatkozás"
-
     },
     {
         "id": "marta-mraz",
@@ -28,7 +28,6 @@
         "languages": "Magyar - English - Deutsch",
         "introduction": "Dr. Mráz Márta a Budapesti Ügyvédi Kamara által bejegyzett ügyvéd, az Iroda tagja. 2011-ben szerezte meg diplomáját az Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Karán. 2010 nyarán a Salzburgi Egyetem jogi karán folytatott nemzetközi magánjogi tanulmányokat. Az egyetemi évei során két és fél évig gyakornokként tevékenykedett egy budapesti ügyvédi irodában, az irodához 2011-ben, közvetlenül a diploma megszerzését követően csatlakozott. 2012-ben a Budapesti Corvinus Egyetem Gazdálkodástudományi Karán szerzett közgazdász diplomát, ugyanebben az évben akkreditált mediátor tanfolyamot végzett. Szakterületei a polgári jog, a peres eljárások, a szerzői jog, a munkajog, a kereskedelmi jog, a fogyasztóvédelmi jog, az adatvédelmi jog és az ingatlanjog. Folyékonyan beszél angolul és németül.",
         "profileButtonText": "Bemutatkozás"
-
     },
     {
         "id": "balazs-kis",
@@ -37,9 +36,8 @@
         "email": "balazs.kis@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English",
-        "introduction": "Dr. Kis Balázs ügyvéd, a Budapesti Ügyvédi Kamara tagja. Jogi diplomáját 2008-ban a Szegedi Tudományegyetem Állam- és Jogtudományi Karán szerezte. A 2006/2007-as tanévben a Mainzi Egyetemen ösztöndíjasként folytatott jogi tanulmányokat, majd elvégezte a University of Toledo, Ohio angol nyelvű, amerikai jogi szakértői képzését. Ezt követően egy évet Londonban egy jogi szaklapnál dolgozott, majd Budapesten egy multinacionális vállalat jogi osztályát erősítette. Az irodához 2012-ben csatlakozott. Szakterületei a társasági jog, az átalakulások és vállalatfelvásárlások, a kereskedelmi jog, az ingatlanjog, a kockázati tőkebefektetések joga, valamint az elektronikus hírközlési és médiajog. Folyékonyan beszél angolul.",
+        "introduction": "Dr. Kis Balázs ügyvéd, a Budapesti Ügyvédi Kamara tagja. Jogi diplomáját 2008-ban a Szegedi Tudományegyetem Állam- és Jogtudományi Karán szerezte. A 2006/2007-as tanévben a Mainzi Egyetemen ösztöndíjasként folytatott jogi tanulmányokat, majd elvégezte a University of Toledo, Ohio angol nyelvű, amerikai jogi szakértői képzését. Ezt követően egy évet Londonban egy jogi szaklapnál dolgozott, majd Budapesten egy multinacionális vállalat jogi osztályát erősítette. Az irodához 2012-ben csatlakozott. Balázs több mint 10 év tapasztalattal rendelkezik a társasági jog, az átalakulások és vállalatfelvásárlások, valamint az ingatlanjog területén (ide értve a belföldi és határon átnyúló beolvadásokat is). Munkája során számos magyar és nemzetközi ügyfelet látott és lát el jogi tanáccsal különösen a szállodaipart, az autóipart, valamint banki és IT szektort érintő tranzakcióikkal kapcsolatban, továbbá az iroda ügyfeleinek mindennapi üzletmenetét támogatja a kereskedelem, a kockázati tőkebefektetések, az épülettervezés és –kivitelezés, valamint az elektronikus hírközlés területén. Folyékonyan beszél angolul.",
         "profileButtonText": "Bemutatkozás"
-
     },
     {
         "id": "gergely-kostenszky",
@@ -48,9 +46,8 @@
         "email": "gergely.kostenszky@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English",
-        "introduction": "Dr. Kostenszky Gergely ügyvéd, a Budapesti Ügyvédi Kamara tagja. 2009-ben szerezte diplomáját a Károli Gáspár Református Egyetem Állam-és Jogtudományi Karán. A diploma megszerzését követően ügyvédjelöltként helyezkedett el. 2014-ben a London South Bank University képzésén LL.M. fokozatot szerzett. 2014 áprilisában csatlakozott az irodához. Szakterületei az ingatlan- és építési jog, a társasági jog és a peres eljárások. Folyékonyan beszél angolul.",
+        "introduction": "Dr. Kostenszky Gergely ügyvéd, a Budapesti Ügyvédi Kamara tagja. 2009-ben szerezte diplomáját a Károli Gáspár Református Egyetem Állam- és Jogtudományi Karán. A diploma megszerzését követően ügyvédjelöltként helyezkedett el. 2014-ben a London South Bank University képzésén LL.M. fokozatot szerzett. 2014 áprilisában csatlakozott az irodához. Szakterületei az ingatlan- és építési jog, a társasági jog és a peres eljárások. Folyékonyan beszél angolul.",
         "profileButtonText": "Bemutatkozás"
-
     },
     {
         "id": "monika-lefler",
@@ -59,9 +56,8 @@
         "email": "monika.lefler@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English - Italiano",
-        "introduction": "Dr. Lefler Mónika a Budapesti Ügyvédi Kamara által bejegyzett ügyvéd. 2008 -ban szerezte jogi diplomáját a Pázmány Péter Katolikus Egyetem Állam- és Jogtudományi Karán. Az egyetemi képzés során ösztöndíjasként az Universitá degli Studi Roma Tre egyetemen folytatott tanulmányokat. Ügyvédjelölti időszaka alatt közbeszerzési referensi, pályázatírói, valamint olasz tolmács képesítést szerzett. 2008 és 2009 között közbeszerzéssel foglalkozó ügyvédi irodában ügyvédjelöltként, majd 2010 évben vállalati közbeszerzési referensként is dolgozott. 2010 és 2012 között nemzetközi ügyvédi irodában volt ügyvédjelölt. Az ügyvédi szakvizsgát 2012- ben tette le. 2012 -től az irodával együttműködő ügyvéd. Szakterülete a családjog, munkajog, cégjog, ingatlanjog, valamint a közbeszerzések joga. Ellátja az ügyfeleink képviseletét peres és peren kívüli eljárásokban, szakmai tudásával és felkészültségével segíti ügyfeleink érdekeinek érvényesítését. Folyékonyan beszél angolul és olaszul",
+        "introduction": "Dr. Lefler Mónika a Budapesti Ügyvédi Kamara által bejegyzett ügyvéd. 2008 -ban szerezte jogi diplomáját a Pázmány Péter Katolikus Egyetem Állam- és Jogtudományi Karán. Az egyetemi képzés során ösztöndíjasként az Universitá degli Studi Roma Tre egyetemen folytatott tanulmányokat. Ügyvédjelölti időszaka alatt közbeszerzési referensi, pályázatírói, valamint olasz tolmács képesítést szerzett. 2008 és 2009 között közbeszerzéssel foglalkozó ügyvédi irodában ügyvédjelöltként, majd 2010 évben vállalati közbeszerzési referensként is dolgozott. 2010 és 2012 között nemzetközi ügyvédi irodában volt ügyvédjelölt. Az ügyvédi szakvizsgát 2012-ben tette le. 2012 -től az irodával együttműködő ügyvéd. Szakterülete a családjog, munkajog, cégjog, ingatlanjog, valamint a közbeszerzések joga. Ellátja az ügyfeleink képviseletét peres és peren kívüli eljárásokban, szakmai tudásával és felkészültségével segíti ügyfeleink érdekeinek érvényesítését. Folyékonyan beszél angolul és olaszul",
         "profileButtonText": "Bemutatkozás"
-
     },
     {
         "id": "gyorgy-sebestyen",
@@ -80,7 +76,7 @@
         "email": "laszlo.solti-toth@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English - Deutsch",
-        "introduction": "Dr. Solti-Tóth László együttműködő ügyvéd, 2012-ben szerzett jogi diplomát az ELTE Állam- és Jogtudományi Karán. Ezt követően a Budapesti Gazdasági Főiskola pénzügy és számvitel képzésén BA diplomát, valamint mérlegképes könyvelői  képesítést szerzett. Egyetemi tanulmányai alatt különböző budapesti ügyvédi irodák és bíróságok munkáját segítette gyakornokként. Jogi pályáját egy független magyar ügyvédi irodánál kezdte, ahol elsősorban a kockázati tőkebefektetések, az M&A tranzakciók, az üzleti és kereskedelmi jog, valamint a perjog területén szerzett tapasztalatokat. Ezt követően bank- és pénzügyi jogi, valamint általános kereskedelmi és társasági jogi területen folytatta tevékenységét. László 2015 decemberében csatlakozott a Lohn Ügyvédi Irodához ügyvédjelöltként. Azóta a fentieken túlmenően elsősorban peres és egyéb vitarendezési ügyeken dolgozik ideértve a gazdasági büntetőjog területét is. 2020 óta együttműködő ügyvédként dolgozik az Irodánál. Folyékonyan beszél angolul és németül.",
+        "introduction": "Dr. Solti-Tóth László együttműködő ügyvéd, 2012-ben szerzett jogi diplomát az ELTE Állam- és Jogtudományi Karán. Ezt követően a Budapesti Gazdasági Főiskola pénzügy és számvitel képzésén BA diplomát, valamint mérlegképes könyvelői  képesítést szerzett. Egyetemi tanulmányai alatt különböző budapesti ügyvédi irodák és bíróságok munkáját segítette gyakornokként. Jogi pályáját egy független magyar ügyvédi irodánál kezdte, ahol elsősorban a kockázati tőkebefektetések, az M&A tranzakciók, az üzleti és kereskedelmi jog, valamint a perjog területén szerzett tapasztalatokat. Ezt követően bank- és pénzügyi jogi, valamint általános kereskedelmi és társasági jogi területen folytatta tevékenységét. László 2015 decemberében csatlakozott a Lohn Ügyvédi Irodához ügyvédjelöltként. Azóta a fentieken túlmenően elsősorban peres és egyéb vitarendezési ügyeken dolgozik ideértve a gazdasági büntetőjog területét is. 2020 óta együttműködő ügyvédként dolgozik az Irodánál. Folyékonyan beszél angolul és németül.",
         "profileButtonText": "Bemutatkozás"
     },
     {
@@ -90,9 +86,8 @@
         "email": "adam.tarr@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English - Deutsch",
-        "introduction": "Dr. TARR Ádám, LL.M. ügyvéd. 2010-ben szerezte diplomáját a Pázmány Péter Katolikus Egyetem Jog- és Államtudományi Karán. A 2007-ben összehasonlító jogi nyáriegyetemet végzett Svájcban, 2008 õszi szemeszterében az Aarhusi Egyetemen ösztöndíjasként folytatott jogi tanulmányokat. 2009-2010 években közbeszerzési tanácsadó irodánál dolgozott, majd négy évig Németországban élt. 2014-ben az Universität Regensburg képzésén LL.M. fokozatot szerzett. A 2013 és 2014-es években neves müncheni adótanácsadó irodáknál végzett szakmai munkát az áfa és szja területén. 2015 januártól 2016 január végéig egy budapesti ügyvédi irodában német, osztrák és magyar vám-, adó- és gazdasági jogi ügyekkel foglalkozott. 2016 február óta dolgozik az irodával, 2019 október óta az irodával együttmûködõ egyéni ügyvéd. 2020 júliusban a Müncheni Ügyvédi Kamara tagja lett és Németországban is jogosult ügyvédi tevékenységet folytatni. Folyékonyan beszél angolul és németül.",
+        "introduction": "Dr. TARR Ádám, LL.M. ügyvéd. 2010-ben szerezte diplomáját a Pázmány Péter Katolikus Egyetem Jog- és Államtudományi Karán. A 2007-ben összehasonlító jogi nyáriegyetemet végzett Svájcban, 2008 őszi szemeszterében az Aarhusi Egyetemen ösztöndíjasként folytatott jogi tanulmányokat. 2009-2010 években közbeszerzési tanácsadó irodánál dolgozott, majd négy évig Németországban élt. 2014-ben az Universität Regensburg képzésén LL.M. fokozatot szerzett. A 2013 és 2014-es években neves müncheni adótanácsadó irodáknál végzett szakmai munkát az áfa és szja területén. 2015 januártól 2016 január végéig egy budapesti ügyvédi irodában német, osztrák és magyar vám-, adó- és gazdasági jogi ügyekkel foglalkozott. 2016 február óta dolgozik az irodával, 2019 október óta az irodával együttműködő egyéni ügyvéd. 2020 júliusban a Müncheni Ügyvédi Kamara tagja lett és Németországban is jogosult ügyvédi tevékenységet folytatni. Folyékonyan beszél angolul és németül.",
         "profileButtonText": "Bemutatkozás"
-
     },
     {
         "id": "gyorgy-kecser",
@@ -103,18 +98,6 @@
         "languages": "Magyar - English",
         "introduction": "dr. Kecser György, a Budapesti Ügyvédi Kamara által bejegyzett ügyvéd. 2014-ben szerezte jogi diplomáját az Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Karán. 2011-2012-ben a krakkói Jagelló Egyetem ösztöndíjas hallgatója volt. 2013-ban gyakornokként dolgozott a House of Commonsban, Londonban. 2014-től nemzetközi ügyvédi irodákban volt ügyvédjelölt. 2018 óta az irodával együttműködő ügyvéd. Folyékonyan beszél angolul.",
         "profileButtonText": "Bemutatkozás"
-
-    },
-    {
-        "id": "kinga-csikos",
-        "name": "Dr. Csikós Kinga",
-        "title": "Ügyvéd",
-        "email": "kinga.csikos@lohn.hu",
-        "mobile": "+36 1 999 1233",
-        "languages": "Magyar",
-        "introduction": "",
-        "profileButtonText": "Bemutatkozás"
-
     },
     {
         "id": "emese-kavassy",
@@ -143,7 +126,7 @@
         "email": "gergely.szalay@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English",
-        "introduction": "",
+        "introduction": "Dr. Szalay Gergely ügyvédjelölt. Diplomáját 2017-ben szerezte meg az Eötvös Loránd Tudományegyetem Állam-és Jogtudományi Karán. Az egyetemi tanulmányai során négy évig gyakornokként dolgozott több budapesti ügyvédi irodában munkajog, polgári perek és M&A szakterületeken. Az irodánkhoz közvetlenül a diplomája megszerzését követően csatlakozott. Szakterületei a polgári jog, azon belül különösen társasági jog, peres eljárások, szellemi alkotások joga és munkajog. Folyékonyan beszél angolul.",
         "profileButtonText": "Bemutatkozás"
     },
     {
@@ -153,7 +136,7 @@
         "email": "tamas.szerbin@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English - русский",
-        "introduction": "",
+        "introduction": "dr. Szerbin Tamás 2019 márciusában csatlakozott a Lohn Ügyvédi Irodához. Jogi diplomáját a Pázmány Péter Katolikus Egyetem Jog- és Államtudományi Karán szerezte, emellett elvégezte az Eötvös Loránd Tudományegyetem Társadalomtudományi Karának politológus képzését, továbbá okleveles nemzetközi kapcsolatok szakértői végzettséget szerzett a Budapesti Corvinus Egyetem nemzetközi tanulmányok szakán. Egyetemi évei során ösztöndíjas hallgatóként egy szemesztert tanult a Moscow State Institute of International Relations (MGIMO) intézményében, majd az Institut d'études politiques de Paris (Sciences Po) ösztöndíjas hallgatója volt egy szemeszteren keresztül. Éveken keresztül demonstrátorként dolgozott a Budapesti Corvinus Egyetem Összehasonlító Gazdaságtan Tanszékén. Korábban több multinacionális vállalat, illetve egy neves magyar ügyvédi iroda csapatát erősítette. Szakterülete a peres eljárások, a bevándorlási és az építési jog. Folyékonyan beszél angolul és oroszul.",
         "profileButtonText": "Bemutatkozás"
     },
     {
@@ -167,54 +150,43 @@
         "profileButtonText": "Bemutatkozás"
     },
     {
-        "id": "krisztian-kerek",
-        "name": "Dr. Kerék Krisztián",
-        "title": "Ügyvédjelölt",
-        "email": "krisztian.kerek@lohn.hu",
-        "mobile": "+36 1 999 1233",
-        "languages": "Magyar - English - русский",
-        "introduction": "",
-        "profileButtonText": "Bemutatkozás"
-    },
-    {
         "id": "zita-varga",
         "name": "Dr. Varga Zita",
         "title": "Ügyvédjelölt",
         "email": "zita.varga@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English",
-        "introduction": "Dr. Varga Zita ügyvédjelölt. 2020-ban szerezte meg diplomáját a Szegedi Tudományegyetem Állam- és Jogtudományi Karán. Graduális évei alatt tanulmányai részeként üzleti jogi és innovációs jogi modulokat végzett. Két szemeszteren át demonstrátor volt  az Üzleti Jogi Intézetnél, valamint az egyetem Jogklinika programjánál önkéntes. 2019-ben egy szemesztert a krakkói Jagelló Egyetem hallgatójaként teljesített Erasmus+ ösztöndíj keretében.  Tudományos diákköri munkája eredményeként a  XXXIV. Országos Tudományos Diákköri Konferencián médiajogi tagozatban a zsűri különdíjjal értékelte 'Dinamikus technológiai tendencia vs. spirális körforgás? - a médiajog tárgyi hatályának visszatérő kérdései' című dolgozatát.  Tanulmányaival párhuzamosan nemzetközi ügyvédi irodákban volt gyakornok 2017 és 2019 között. Jelenleg a Szegedi Tudományegyetem Állam- és Jogtudományi Karán doktori tanulmányokat folytat, kutatási területe a jog és innováció kapcsolata. Folyékonyan beszél angolul.",
+        "introduction": "dr. Varga Zita ügyvédjelölt. 2020-ban szerezte meg diplomáját a Szegedi Tudományegyetem Állam- és Jogtudományi Karán. Graduális évei alatt tanulmányai részeként üzleti jogi és innovációs jogi modulokat végzett. Két szemeszteren át demonstrátor volt  az Üzleti Jogi Intézetnél, valamint az egyetem Jogklinika programjánál önkéntes. 2019-ben egy szemesztert a krakkói Jagelló Egyetem hallgatójaként teljesített Erasmus+ ösztöndíj keretében.  Tudományos diákköri munkája eredményeként a  XXXIV. Országos Tudományos Diákköri Konferencián médiajogi tagozatban a zsűri különdíjjal értékelte "Dinamikus technológiai tendencia vs. spirális körforgás? - a médiajog tárgyi hatályának visszatérő kérdései" című dolgozatát.  Tanulmányaival párhuzamosan nemzetközi ügyvédi irodákban volt gyakornok 2017 és 2019 között. Jelenleg a Szegedi Tudományegyetem Állam- és Jogtudományi Karán doktori tanulmányokat folytat, kutatási területe a jog és innováció kapcsolata.  Folyékonyan beszél angolul.",
         "profileButtonText": "Bemutatkozás"
     },
     {
-        "id": "agnes-sarkadi-nagy",
-        "name": "Sarkadi-Nagy Ágnes",
-        "title": "",
-        "email": "agnes.sarkadi-nagy@lohn.hu",
+        "id": "reka-fulop",
+        "name": "Dr. Fülöp Réka",
+        "title": "Ügyvédjelölt",
+        "email": "reka.fulop@lohn.hu",
         "mobile": "+36 1 999 1233",
         "languages": "Magyar - English",
-        "introduction": "",
+        "introduction": "Dr. Fülöp Réka ügyvédjelölt, 2020-ban szerezte meg diplomáját az ELTE Állam- és Jogtudományi Karán. Egyetemi tanulmányai alatt különböző budapesti ügyvédi irodák, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóság munkáját segítette gyakornokként. Gyakornoki évei alatt adatvédelmi, társasági jogi, szerzői jogi területeken szerzett tapasztalatokat. Irodánkhoz közvetlenül diplomája megszerzését követően, 2020 augusztusában csatlakozott. Folyékonyan beszél angolul.",
         "profileButtonText": "Bemutatkozás"
     },
     {
-        "id": "alexandra-varszegi",
-        "name": "Várszegi Alexandra",
-        "title": "",
-        "email": "alexandra.varszegi@lohn.hu",
+        "id": "ljudmila-konyuhova",
+        "name": "Dr. Konyuhova Ljudmila",
+        "title": "Együttműködő ügyvéd",
+        "email": "ljudmila.konyuhova@lohn.hu",
         "mobile": "+36 1 999 1233",
-        "languages": "Magyar - English",
-        "introduction": "",
+        "languages": "Magyar - русский",
+        "introduction": "Dr. Konyuhova Ljudmila a Budapesti Ügyvédi Kamara által bejegyzett ügyvéd. 2010-ben szerezte jogi diplomáját az Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Karán. Ügyvédjelöltként tevékenykedett egy budapesti ügyvédi irodában. Több éve dolgozott egy multinacionális vállalatnál jogi előadóként követeléskezelési, ezt követően pedig bevándorlási és munkajogi területeken. Posztgraduális Ingatlanforgalmi szakjogász képzését szerezte a Pázmány Péter Katolikus Egyetem Állam- és Jogtudományi Karán. 2020 szeptemberében ügyvédként csatlakozott az irodához. Anyanyelvi szinten beszél magyarul és oroszul.",
         "profileButtonText": "Bemutatkozás"
     },
     {
-        "id": "annamaria-lohn",
-        "name": "Lohn Annamária",
-        "title": "",
-        "email": "annamaria.lohn@lohn.hu",
+        "id": "tatjana-krivszka",
+        "name": "Dr. Krivszka Tatjána",
+        "title": "Együttműködő ügyvéd",
+        "email": "tatjana.krivszka@lohn.hu",
         "mobile": "+36 1 999 1233",
-        "languages": "Magyar - English",
-        "introduction": "",
+        "languages": "Magyar - English - русский",
+        "introduction": "Dr. Krivszka Tatjána 2013-ban a Pázmány Péter Jog- és Államtudományi Egyetem Jogi Karán végzett. Jogi tanulmányai befejezése előtt közgazdász szakon is diplomát szerzett 2009-ben. Szakmai pályafutását már egyetemi tanulmányai alatt kezdte és a diplomája megszerzése után egy ismert magyar ügyvédi irodánál folytatta, ahol elsősorban az üzleti és kereskedelmi jog, valamint társasági jog területén tevékenykedett. Ezt követően 2 évig egy svájci vállalatnál vállalati jogászként dolgozott. 2016-2018 között egy szellemi alkotások jogával foglalkozó nemzetközi ügyvédi irodát erősítette, melyben védjegyekkel kapcsolatos ügyek teljes spektrumát látta el. 2018-2020 években pedig a ROSATOM állami korporációhoz tartozó mérnöki vállalat magyarországi fióktelepének vállalati jogtanácsosa volt. Tatjána 2020 szeptemberében csatlakozott a Lohn Ügyvédi Irodához. Főbb szakterületei: szerződések joga és vállalatirányitás, szellemi alkotások joga, munkajog és jogviták bíróságon kívüli rendezése. Erősségei a konstruktív megoldások megtalálása, a folyamatos önfejlesztés és az empátia. Folyékonyan beszél angolul és oroszul.",
         "profileButtonText": "Bemutatkozás"
     }
-
 ]

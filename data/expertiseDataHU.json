@@ -16,7 +16,7 @@
         "descriptionP3": "A jogi környezetnek megfelelő, bevált, de mindenben személyre szabott megoldásokkal állunk ügyfeleink rendelkezésére. Minden szerződést és megállapodást arra tekintettel készítünk, hogy az a manapság rohamosan változó jogszabályi és üzleti környezet ellenére évtizedes távlatokban is igyekezzen megállni a helyét. ",
         "descriptionP4": "",
         "expertId1": "balazs-lohn",
-        "expertId2": "marta-mraz"
+        "expertId2": "balazs-kis"
     },
     {
         "id": "dataprotection",
@@ -26,8 +26,7 @@
         "descriptionP3": "",
         "descriptionP4": "",        
         "expertId1": "balazs-lohn",
-        "expertId2": "marta-mraz",
-        "photoURL" : ""
+        "expertId2": "marta-mraz"
     },
     {
         "id": "employment",
@@ -87,7 +86,7 @@
         "descriptionP3": "",
         "descriptionP4": "",        
         "expertId1": "balazs-lohn",
-        "expertId2": "balazs-kis"
+        "expertId2": "gergely-kostenszky"
     },
     {
         "id": "ip",
