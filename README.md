@@ -2,7 +2,7 @@ Ideiglenes itt megtekinthető a beüzemelt verzió: <strong>lohn.gergelyszalay.h
 
 # Szükséges szerverbeállítások
 
-Mivel egyetlen, dinamikusan feltöltött html fájlból áll a weboldal, ezért minden, a domainnév kezdetű, beérkező http kérést át kell írányítáni az index.html fájlra.
+Mivel egyetlen, dinamikusan feltöltött html fájlból áll a weboldal, ezért minden, a domainnévre érkező, beérkező http kérést át kell írányítáni az index.html fájlra.
 
 Például nginx esetén a config fájlban alábbi sornak kell szerepelnie <br>
 
