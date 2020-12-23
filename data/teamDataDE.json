@@ -2,7 +2,7 @@
     {
         "id": "balazs-lohn",
         "name": "Dr. Balázs Lohn",
-        "title": "Partner",
+        "title": "Rechtsanwalt",
         "email": "balazs.lohn@lohn.hu",
         "mobile": "+36 30 242 2966",
         "languages": "Deutsch - English - Magyar",
@@ -12,7 +12,7 @@
     {
         "id": "eszter-nagy-mihaly",
         "name": "Dr. Eszter Nagy-Mihály",
-        "title": "Rechtsreferendar",
+        "title": "Rechtsanwalt",
         "email": "eszter.nagy-mihaly@lohn.hu",
         "mobile": "+36 70 977 9501",
         "languages": "Deutsch - English - Magyar",
@@ -22,7 +22,7 @@
     {
         "id": "marta-mraz",
         "name": "Dr. Márta Mráz",
-        "title": "Partner",
+        "title": "Rechtsanwalt",
         "email": "marta.mraz@lohn.hu",
         "mobile": "+36 70 977 9504",
         "languages": "Deutsch - English - Magyar",
@@ -32,7 +32,7 @@
     {
         "id": "balazs-kis",
         "name": "Dr. Balázs Kis",
-        "title": "Partner",
+        "title": "Rechtsanwalt",
         "email": "balazs.kis@lohn.hu",
         "mobile": "+36 70 977 9503",
         "languages": "English - Magyar",
@@ -42,7 +42,7 @@
     {
         "id": "gergely-kostenszky",
         "name": "Dr. Gergely Kostenszky",
-        "title": "Partner",
+        "title": "Rechtsanwalt",
         "email": "gergely.kostenszky@lohn.hu",
         "mobile": "+36 70 977 9505",
         "languages": "English - Magyar",
@@ -52,7 +52,7 @@
     {
         "id": "monika-lefler",
         "name": "Dr. Mónika Lefler",
-        "title": "Kooperationspartner",
+        "title": "Rechtsanwalt",
         "email": "monika.lefler@lohn.hu",
         "mobile": "+36 70 977 9502",
         "languages": "English - Magyar - Italiano",
@@ -62,7 +62,7 @@
     {
         "id": "gyorgy-sebestyen",
         "name": "Dr. György Sebestyén LL.M.",
-        "title": "Kooperationspartner",
+        "title": "Rechtsanwalt",
         "email": "gyorgy.sebestyen@lohn.hu",
         "mobile": "+36 70 977 9508",
         "languages": "English - Magyar",
@@ -72,7 +72,7 @@
     {
         "id": "laszlo-solti-toth",
         "name": "Dr. László Solti-Tóth",
-        "title": "Kooperationspartner",
+        "title": "Rechtsanwalt",
         "email": "laszlo.solti-toth@lohn.hu",
         "mobile": "+36 70 394 0267",
         "languages": "Deutsch - English - Magyar",
@@ -82,7 +82,7 @@
     {
         "id": "adam-tarr",
         "name": "Dr. Ádám Tarr, LL.M.",
-        "title": "Kooperationspartner",
+        "title": "Rechtsanwalt",
         "email": "adam.tarr@lohn.hu",
         "mobile": "+36 70 394 0266",
         "languages": "Deutsch - English - Magyar",
@@ -92,7 +92,7 @@
     {
         "id": "gyorgy-kecser",
         "name": "Dr. György Kecser",
-        "title": "Kooperationspartner",
+        "title": "Rechtsanwalt",
         "email": "gyorgy.kecser@lohn.hu",
         "mobile": "+36 30 268 6296",
         "languages": "English - Magyar",
@@ -102,7 +102,7 @@
     {
         "id": "emese-kavassy",
         "name": "Dr. Emese Kávássy",
-        "title": "Kooperationspartner",
+        "title": "Rechtsanwalt",
         "email": "emese.kavassy@lohn.hu",
         "mobile": "+36 30 900 3818",
         "languages": "English - Magyar",
@@ -172,7 +172,7 @@
     {
         "id": "ljudmila-konyuhova",
         "name": "Dr. Konyuhova Ljudmila",
-        "title": "Kooperationspartner",
+        "title": "Rechtsanwalt",
         "email": "ljudmila.konyuhova@lohn.hu",
         "mobile": "+36 70 799 6971",
         "languages": "Magyar - русский",
@@ -182,7 +182,7 @@
     {
         "id": "tatjana-krivszka",
         "name": "Dr. Krivszka Tatjána",
-        "title": "Kooperationspartner",
+        "title": "Rechtsanwalt",
         "email": "tatjana.krivszka@lohn.hu",
         "mobile": "+36 70 799 6970",
         "languages": "Magyar - English - русский",

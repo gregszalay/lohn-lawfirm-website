@@ -12,7 +12,7 @@
     {
         "id": "eszter-nagy-mihaly",
         "name": "Dr. Nagy-Mihály Eszter",
-        "title": "Ügyvédjelölt",
+        "title": "Ügyvéd",
         "email": "eszter.nagy-mihaly@lohn.hu",
         "mobile": "+36 70 977 9501",
         "languages": "Magyar - English - Deutsch",
@@ -22,7 +22,7 @@
     {
         "id": "marta-mraz",
         "name": "Dr. Mráz Márta",
-        "title": "Partner Ügyvéd",
+        "title": "Ügyvéd",
         "email": "marta.mraz@lohn.hu",
         "mobile": "+36 70 977 9504",
         "languages": "Magyar - English - Deutsch",
@@ -32,7 +32,7 @@
     {
         "id": "balazs-kis",
         "name": "Dr. Kis Balázs",
-        "title": "Partner Ügyvéd",
+        "title": "Ügyvéd",
         "email": "balazs.kis@lohn.hu",
         "mobile": "+36 70 977 9503",
         "languages": "Magyar - English",
@@ -42,7 +42,7 @@
     {
         "id": "gergely-kostenszky",
         "name": "Dr. Kostenszky Gergely",
-        "title": "Partner Ügyvéd",
+        "title": "Ügyvéd",
         "email": "gergely.kostenszky@lohn.hu",
         "mobile": "+36 70 977 9505",
         "languages": "Magyar - English",
@@ -52,7 +52,7 @@
     {
         "id": "monika-lefler",
         "name": "Dr. Lefler Mónika",
-        "title": "Együttműködő Ügyvéd",
+        "title": "Ügyvéd",
         "email": "monika.lefler@lohn.hu",
         "mobile": "+36 70 977 9502",
         "languages": "Magyar - English - Italiano",
@@ -62,7 +62,7 @@
     {
         "id": "gyorgy-sebestyen",
         "name": "Dr. Sebestyén György LL.M.",
-        "title": "Együttműködő Ügyvéd",
+        "title": "Ügyvéd",
         "email": "gyorgy.sebestyen@lohn.hu",
         "mobile": "+36 70 977 9508",
         "languages": "Magyar - English",
@@ -72,7 +72,7 @@
     {
         "id": "laszlo-solti-toth",
         "name": "Dr. Solti-Tóth László",
-        "title": "Együttműködő ügyvéd",
+        "title": "Ügyvéd",
         "email": "laszlo.solti-toth@lohn.hu",
         "mobile": "+36 70 394 0267",
         "languages": "Magyar - English - Deutsch",
@@ -82,7 +82,7 @@
     {
         "id": "adam-tarr",
         "name": "Dr. Tarr Ádám, LL.M.",
-        "title": "Együttműködő ügyvéd",
+        "title": "Ügyvéd",
         "email": "adam.tarr@lohn.hu",
         "mobile": "+36 70 394 0266",
         "languages": "Magyar - English - Deutsch",
@@ -172,7 +172,7 @@
     {
         "id": "ljudmila-konyuhova",
         "name": "Dr. Konyuhova Ljudmila",
-        "title": "Együttműködő ügyvéd",
+        "title": "Ügyvéd",
         "email": "ljudmila.konyuhova@lohn.hu",
         "mobile": "+36 70 799 6971",
         "languages": "Magyar - русский",
@@ -182,7 +182,7 @@
     {
         "id": "tatjana-krivszka",
         "name": "Dr. Krivszka Tatjána",
-        "title": "Együttműködő ügyvéd",
+        "title": "Ügyvéd",
         "email": "tatjana.krivszka@lohn.hu",
         "mobile": "+36 70 799 6970",
         "languages": "Magyar - English - русский",
