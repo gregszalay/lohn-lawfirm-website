@@ -587,9 +587,9 @@ div, footer {
     min-width: 150px;
 }
 
-.team-card div div p {
-    margin: 0 0 10px 0;
-    line-height: 20px;
+.team-card div div .name {
+    margin: 0 5px 10px 0;
+    line-height: 15x;
 }
 
 .profile-contact-icon {
