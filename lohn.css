@@ -589,7 +589,7 @@ div, footer {
 
 .team-card div div .name {
     margin: 0 5px 10px 0;
-    line-height: 15x;
+    line-height: 15px;
 }
 
 .profile-contact-icon {
@@ -946,9 +946,13 @@ footer .contentWrapper {
     .team-card div {
         width: 90%;
     }
-    .team-card div div p {
+    .team-card div div p:first-child {
         font-size: 18px;
-        line-height: 30px;
+        line-height: 20px;
+    }
+    .team-card div div p {
+        font-size: 16px;
+        line-height: 20px;
     }
     .subPageMainSection {
         flex-direction: row;
