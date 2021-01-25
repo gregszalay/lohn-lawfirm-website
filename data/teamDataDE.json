@@ -12,7 +12,7 @@
     {
         "id": "eszter-nagy-mihaly",
         "name": "Dr. Eszter Nagy-Mihály",
-        "title": "Rechtsanwalt",
+        "title": "Rechtsanwältin",
         "email": "eszter.nagy-mihaly@lohn.hu",
         "mobile": "+36 70 977 9501",
         "languages": "Deutsch - English - Magyar",
@@ -22,7 +22,7 @@
     {
         "id": "marta-mraz",
         "name": "Dr. Márta Mráz",
-        "title": "Rechtsanwalt",
+        "title": "Rechtsanwältin",
         "email": "marta.mraz@lohn.hu",
         "mobile": "+36 70 977 9504",
         "languages": "Deutsch - English - Magyar",
@@ -52,7 +52,7 @@
     {
         "id": "monika-lefler",
         "name": "Dr. Mónika Lefler",
-        "title": "Rechtsanwalt",
+        "title": "Rechtsanwältin",
         "email": "monika.lefler@lohn.hu",
         "mobile": "+36 70 977 9502",
         "languages": "English - Magyar - Italiano",
@@ -102,7 +102,7 @@
     {
         "id": "emese-kavassy",
         "name": "Dr. Emese Kávássy",
-        "title": "Rechtsanwalt",
+        "title": "Rechtsanwältin",
         "email": "emese.kavassy@lohn.hu",
         "mobile": "+36 30 900 3818",
         "languages": "English - Magyar",
@@ -112,7 +112,7 @@
     {
         "id": "borbala-maglai",
         "name": "Dr. Borbála Maglai",
-        "title": "Rechtsreferendar",
+        "title": "Rechtsreferendarin",
         "email": "borbala.maglai@lohn.hu",
         "mobile": "+36 70 506 8488",
         "languages": "English - Magyar - Српски",
@@ -142,7 +142,7 @@
     {
         "id": "katalin-toth",
         "name": "Dr. Katalin Tóth",
-        "title": "Rechtsreferendar",
+        "title": "Rechtsreferendarin",
         "email": "katalin.toth@lohn.hu",
         "mobile": "+36 70 504 1655",
         "languages": "English - Magyar",
@@ -152,7 +152,7 @@
     {
         "id": "zita-varga",
         "name": "Dr. Zita Varga",
-        "title": "Rechtsreferendar",
+        "title": "Rechtsreferendarin",
         "email": "zita.varga@lohn.hu",
         "mobile": "+36 70 640 2430",
         "languages": "English - Magyar",
@@ -162,7 +162,7 @@
     {
         "id": "reka-fulop",
         "name": "Dr. Fülöp Réka",
-        "title": "Rechtsreferendar",
+        "title": "Rechtsreferendarin",
         "email": "reka.fulop@lohn.hu",
         "mobile": "+36 70 504 1645",
         "languages": "English - Magyar",
@@ -172,7 +172,7 @@
     {
         "id": "ljudmila-konyuhova",
         "name": "Dr. Konyuhova Ljudmila",
-        "title": "Rechtsanwalt",
+        "title": "Rechtsanwältin",
         "email": "ljudmila.konyuhova@lohn.hu",
         "mobile": "+36 70 799 6971",
         "languages": "Magyar - Русский",
@@ -182,7 +182,7 @@
     {
         "id": "tatjana-krivszka",
         "name": "Dr. Krivszka Tatjána",
-        "title": "Kooperierende Rechtsberater",
+        "title": "Kooperierende Rechtsberaterin",
         "email": "tatjana.krivszka@lohn.hu",
         "mobile": "+36 70 799 6970",
         "languages": "Magyar - English - Русский",
