@@ -325,6 +325,10 @@ function loadSecondaryLanguage(newLanguageCode) {
     window.localStorage.setItem("jsonLanguageCode", newLanguageCode);
     var subDirectoryName = window.location.href.split("/")[window.location.href.split("/").length - 1];
     console.log(window.localStorage.getItem("jsonLanguageCode"));
+    if(newLanguageCode == "HU"){
+        window.onload;
+        return;
+    } 
     if (subDirectoryName.localeCompare("") == 0) {
         loadPageByExtension(dataObjectGlobal, window.localStorage.getItem("jsonLanguageCode"), true, languageCodes.indexOf(window.localStorage.getItem("jsonLanguageCode")));
     } else {
